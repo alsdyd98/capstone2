@@ -1,0 +1,1612 @@
+{
+  "204c75931fe3067ab9829ac25f68da09ac1b11e5101151fb0002f79d7091bfc4": {
+    "Q1": "Is it common for toddlers to play the electric guitar?",
+    "Q2": "Why is a toddler playing an electric guitar?",
+    "Q3": "What skills are required to play the electric guitar?",
+    "Q4": "What age group is typically able to play the electric guitar?",
+    "Q5": "What are the challenges for a toddler playing the electric guitar?"
+  },
+  "9cbe87a7bce33214e0b97429e7f8c8320e653082c5ec4d41a5f34a3a3157ca6d": {
+    "Q1": "Why is a grown man using a baby's pacifier?",
+    "Q2": "What is the purpose of a pacifier?",
+    "Q3": "Is it common for adults to use pacifiers?",
+    "Q4": "What age group typically uses pacifiers?",
+    "Q5": "What are some alternatives to using a pacifier for calming?"
+  },
+  "20c0d1ed3d942c6fd366be1d86439da5dff37603d9458e012c41a20542149fa4": {
+    "Q1": "What is the minimum age to join the Roman Army?",
+    "Q2": "Why is it unlikely to see young children as Roman soldiers?",
+    "Q3": "What is the typical age range for Roman soldiers?",
+    "Q4": "What is the historical significance of child Roman soldiers?",
+    "Q5": "How were child soldiers viewed in the Roman Empire?"
+  },
+  "037cb53ab259b8554be8ad2a250cb2c0a3ed3178315088e3ddc436f0208f0eda": {
+    "Q1": "Is it common for infants to wear glasses?",
+    "Q2": "Why is the infant wearing glasses?",
+    "Q3": "Can infants comprehend and enjoy books at their age?",
+    "Q4": "What is the purpose of corrective eyeglasses?",
+    "Q5": "What is the cognitive development necessary for reading?"
+  },
+  "e888d9a2489347e5d6e116fe7883862f914693b62732c3b6e9db38d3a95b75e8": {
+    "Q1": "Why is a grown man sitting in a baby stroller?",
+    "Q2": "What is the purpose of a baby stroller?",
+    "Q3": "Is it common for adults to use baby strollers?",
+    "Q4": "What is the typical age group for using a baby stroller?",
+    "Q5": "Why would a grown man be holding a teddy bear in a baby stroller?"
+  },
+  "96d6a75d9bbdd0e2fa75ed32f207cd6d63391e3ac0b7f9402150e3ccf0d5082d": {
+    "Q1": "Is it common for elderly people to ride skateboards?",
+    "Q2": "What are the physical requirements for skateboarding?",
+    "Q3": "Why is skateboarding dangerous for elderly people?",
+    "Q4": "What are the risks of an elderly person riding a skateboard?",
+    "Q5": "What are some alternative activities for elderly people to stay active?"
+  },
+  "e6ae96eab46b86192e12a529541d05b88c015ff57ce408d66a8efd6792ed0bd8": {
+    "Q1": "Why are young children marching in Royal Guard uniforms?",
+    "Q2": "Are children typically part of the Royal Guard?",
+    "Q3": "What is the purpose of the Royal British Guard?",
+    "Q4": "What are the requirements to be part of the Royal Guard?",
+    "Q5": "What is the typical age range for members of the Royal Guard?"
+  },
+  "44cb2f9aea9f3e365a1af844a37f734cc31b2a03ffd00391fd235a545e3a4685": {
+    "Q1": "Why are the babies holding signs at a protest?",
+    "Q2": "What is the purpose of the protest?",
+    "Q3": "Do babies have the ability to understand politics?",
+    "Q4": "What are the basic needs of babies?",
+    "Q5": "Why would babies engage in public protest?"
+  },
+  "0d3e768b9f69ddac682b603fadb709533dda6700a177b4baac47f5c97b0c63ec": {
+    "Q1": "Are toddlers capable of mountain climbing?",
+    "Q2": "How did the toddlers reach the mountain's summit?",
+    "Q3": "What are the requirements for mountain climbing?",
+    "Q4": "Why is mountain climbing considered a dangerous activity?",
+    "Q5": "What are the challenges toddlers face in mountain climbing?"
+  },
+  "d7fdddc5ed9e42c2088815843c7c9b1d5f79754fed89f2a8941f839f12b8df00": {
+    "Q1": "Is it safe for a baby toddler to eat a whole raw carrot?",
+    "Q2": "Why do toddlers find vegetables like carrots unsavory?",
+    "Q3": "What enzyme causes a bitter taste in vegetables for toddlers?",
+    "Q4": "How can toddlers safely consume carrots?",
+    "Q5": "What are the consequences of a baby toddler eating a whole raw carrot?"
+  },
+  "c9d1b8834b9a9905ab1d1c15dc130e3d9717b4e0dcc5df7def23a794447a4ed9": {
+    "Q1": "Is the Mona Lisa painting famous?",
+    "Q2": "Does the Mona Lisa painting depict her wearing a hat?",
+    "Q3": "What is the subject of the Mona Lisa painting?",
+    "Q4": "Is the Mona Lisa painting known for its unique features?",
+    "Q5": "Why is it unusual to see the Mona Lisa wearing a hat?"
+  },
+  "38d971ef8429f6c7285589401008c06786e26ae6b1a7af68a76bb34e02a449aa": {
+    "Q1": "Who is the subject of the Mona Lisa portrait?",
+    "Q2": "Why is it strange to see a man as the main object in the Mona Lisa portrait?",
+    "Q3": "What is the gender of the subject in the Mona Lisa portrait?",
+    "Q4": "What is the significance of the Mona Lisa portrait?",
+    "Q5": "Is the Mona Lisa portrait a famous artwork?"
+  },
+  "25ad4916ff0d4d3a988b438da219a5de3ae7954532c6f888cba647627690f486": {
+    "Q1": "What is the title of the famous painting by Johannes Vermeer?",
+    "Q2": "What type of earring does the girl in the painting wear?",
+    "Q3": "What material are the earrings made of in the painting?",
+    "Q4": "Are golden hoop earrings commonly worn with pearls?",
+    "Q5": "What is the significance of the earring in the painting?"
+  },
+  "aaf638cc015645201e114eafbe2eda3f174524f34297643ad3ca8db187756246": {
+    "Q1": "Is a square apple a natural occurrence?",
+    "Q2": "Why are apples typically round?",
+    "Q3": "What is the shape of a typical apple?",
+    "Q4": "Are there any square fruits in nature?",
+    "Q5": "How did the apple become square?"
+  },
+  "93d58991bf748f8e2dc2f85870b76cd0690dfa7bb5958401aee29fb519aa7d23": {
+    "Q1": "Is it possible for a rooster to hatch from an egg?",
+    "Q2": "What is the usual process of a rooster's growth?",
+    "Q3": "Do all chickens hatch from eggs?",
+    "Q4": "What is the difference between a rooster and a chick?",
+    "Q5": "How does a rooster develop from an egg?"
+  },
+  "3c0d26d5c22e11678f559671c3d3faae4c6e6ceeed2b5ffd75cdb53bcb50f8de": {
+    "Q1": "Is a blue apple a natural fruit?",
+    "Q2": "Why is blue a rare color in nature?",
+    "Q3": "What is the color of a typical apple?",
+    "Q4": "What is the significance of the blue apple in the selection of fruit?",
+    "Q5": "How did the blue apple end up in the selection of fruit?"
+  },
+  "a3c1f6448b942d55279440b4192791b13d5d04bc5a3bdbb16698104170fe005e": {
+    "Q1": "How many humps do camels typically have?",
+    "Q2": "What is unusual about the camel in the desert?",
+    "Q3": "Why is it unlikely to see a camel with three humps?",
+    "Q4": "What is the purpose of a camel's humps?",
+    "Q5": "How does the number of humps affect a camel's ability to survive in the desert?"
+  },
+  "6a18896a3f6dded56db8a9a11efbd076a8445bd1d7f8453ec3794aa936bba5bf": {
+    "Q1": "Why is the cow showing its fangs?",
+    "Q2": "Are cows herbivores or carnivores?",
+    "Q3": "What do cows typically eat?",
+    "Q4": "What is the purpose of sharp front teeth in animals?",
+    "Q5": "Is it common for cows to have fangs?"
+  },
+  "5bdd1a38fd3b7da991b292d1dab9e551091ef29d8828ee6343c8f5ea2e968c25": {
+    "Q1": "What type of seeds are typically found inside a pumpkin?",
+    "Q2": "Are papaya seeds commonly found inside a pumpkin?",
+    "Q3": "What is the shape of pumpkin seeds?",
+    "Q4": "Can you see the papaya seeds in a sliced pumpkin?",
+    "Q5": "What is the color of the outer husk of pumpkin seeds?"
+  },
+  "2919107b8769b57cdae77de7b29dc2ad1de4f910b3a9448a8c68b44bfaf5a96c": {
+    "Q1": "Can potatoes grow on a tree branch?",
+    "Q2": "What are potatoes?",
+    "Q3": "Where do potatoes typically grow?",
+    "Q4": "Why can't potatoes grow on a tree branch?",
+    "Q5": "What is the usual growth pattern of potatoes?"
+  },
+  "49b8428a509524027c5d33e5de6494bfab8dce65178bbba3b58f1fb11913b9ee": {
+    "Q1": "Why do human feet point in the same direction?",
+    "Q2": "What would happen if a person's feet were facing opposite directions?",
+    "Q3": "How do human feet aid in locomotion?",
+    "Q4": "Is it possible for a person to walk normally with one foot twisted 180\u00c2\u00ba around?",
+    "Q5": "How have human feet evolved over time?"
+  },
+  "4273f574905eace52b122e045e83a5b4d691256d24fb33d6e864de9a2a25f5dd": {
+    "Q1": "What is the normal number of claws for a lobster?",
+    "Q2": "How many pincers do lobsters typically have?",
+    "Q3": "Why is it unusual to see a lobster with four claws?",
+    "Q4": "What is the purpose of the claws on a lobster?",
+    "Q5": "How does a lobster use its claws to catch prey?"
+  },
+  "bd94713350151d181e220589d648f4af39c354df227453d3e2dccaa434683c6d": {
+    "Q1": "Can babies naturally develop large muscles?",
+    "Q2": "What is required to build large muscles?",
+    "Q3": "How long does it take to build large muscles?",
+    "Q4": "What factors contribute to muscle growth?",
+    "Q5": "Why is it unlikely for a baby to have large muscles?"
+  },
+  "d7b30a0306f68cc6ae284c61206aa33bc4e2d593e8d8b6c68a045487545d7277": {
+    "Q1": "What instrument is Slash known for playing?",
+    "Q2": "Is it common to see Slash playing a saxophone?",
+    "Q3": "What is Slash's main instrument?",
+    "Q4": "Why is it unlikely to see Slash with a saxophone?",
+    "Q5": "What is Slash's reputation in the music industry?"
+  },
+  "59e911825f7b17f6d63db4efc5ef8b43c43e223033fadcc15f2aae4b6e7260ab": {
+    "Q1": "Is Bruce Lee known for his ballet skills?",
+    "Q2": "Why is Bruce Lee dressed in a yellow leotard and tutu?",
+    "Q3": "What is Bruce Lee famous for?",
+    "Q4": "Does it make sense for Bruce Lee to be practicing ballet?",
+    "Q5": "What is the connection between Bruce Lee and ballet?"
+  },
+  "69f53b1316e54de81ee7338127527b1dfaaf96317ee1ca97eed6e00ae9605cea": {
+    "Q1": "Is Albert Einstein known for playing the electric guitar?",
+    "Q2": "What is Albert Einstein famous for?",
+    "Q3": "What is the connection between Albert Einstein and the electric guitar?",
+    "Q4": "Did Albert Einstein play any musical instruments?",
+    "Q5": "Why is Albert Einstein depicted playing an electric guitar?"
+  },
+  "36535596ae116c5b30f601c95b5c4630ed9993df43544b793553eb4f24ed9779": {
+    "Q1": "Why is Snoop Dog wearing a monk's robe?",
+    "Q2": "What is Snoop Dog known for?",
+    "Q3": "Is Snoop Dog a Buddhist monk?",
+    "Q4": "What is the significance of a monk's robe in Buddhism?",
+    "Q5": "What is the usual attire of Snoop Dog?"
+  },
+  "49e7220989e342b9d3f3a3508475b8ad1ab63bf21890642e98c4156dea294d7a": {
+    "Q1": "Is Bruce Lee known for practicing karate?",
+    "Q2": "What martial arts style did Bruce Lee develop?",
+    "Q3": "What is the significance of wearing a gi and a black belt in martial arts?",
+    "Q4": "Why is it unlikely that Bruce Lee would wear a karate costume?",
+    "Q5": "Did Bruce Lee ever practice fencing and boxing?"
+  },
+  "e18cbee447026e1fd773ce10744711e3683ee8ca585a8900966f25e20cc1502c": {
+    "Q1": "Why is Elon Musk wearing a shirt with a Meta logo?",
+    "Q2": "What is the relationship between Elon Musk and Meta?",
+    "Q3": "Is Elon Musk the CEO of Twitter?",
+    "Q4": "Why would Elon Musk wear a shirt with a logo of a competitive social media company?",
+    "Q5": "What is the significance of the Meta logo on Elon Musk's shirt?"
+  },
+  "950539add8f8fd2032d29069756243efdb7aebc6f9633903f74c9097cf6b6a1a": {
+    "Q1": "Why is Mr. Bean wearing an astronaut suit?",
+    "Q2": "What is Rowan Atkinson famous for?",
+    "Q3": "Is it common to see Rowan Atkinson in an astronaut suit?",
+    "Q4": "What is the role of Mr. Bean played by Rowan Atkinson?",
+    "Q5": "What is peculiar about seeing Rowan Atkinson as an astronaut?"
+  },
+  "3db2d210cb8b4f2f92071f910fe591c89432325fc5b09f067c309362479a1b16": {
+    "Q1": "Is Albert Einstein known for his car racing skills?",
+    "Q2": "Did Albert Einstein have a car license?",
+    "Q3": "What was Albert Einstein's profession?",
+    "Q4": "Why is it unlikely to see Albert Einstein driving a drag racing car?",
+    "Q5": "What is the connection between Albert Einstein and drag racing?"
+  },
+  "700c5f042cb0d91c518668bad797bdb7eab611a20a6121e2a59e89b260c2777c": {
+    "Q1": "Is Lionel Messi known for playing tennis?",
+    "Q2": "What sport is Lionel Messi famous for?",
+    "Q3": "Why is it unlikely to see Lionel Messi playing tennis?",
+    "Q4": "What is the photo depicting?",
+    "Q5": "What is Lionel Messi's profession?"
+  },
+  "87c983e5f134caca895d8e4aa8316ef75cdd81d3de1fe61c79dafa57a3943c32": {
+    "Q1": "Why is one of the Men In Black agents wearing a pink suit?",
+    "Q2": "What is the defining feature of the Men In Black agents?",
+    "Q3": "Is it common for Men In Black agents to wear pink suits?",
+    "Q4": "What is the purpose of the black suits worn by the Men In Black agents?",
+    "Q5": "Why would Agent J be dressed in a pink suit?"
+  },
+  "512d74c66093d76a9bfcee93cacb80be74afa05386d86fad1bfd4115fadd3bc0": {
+    "Q1": "What is the usual color of Pikachu's body?",
+    "Q2": "What are the typical colors of Pikachu's cheek dots?",
+    "Q3": "Why is this Pikachu blue instead of yellow?",
+    "Q4": "Is this blue Pikachu a common variation of the character?",
+    "Q5": "How does the blue color of this Pikachu affect its appearance?"
+  },
+  "571478372981f3bb17e8d0e5e8599ad518aec34f0a9b61c708289a1d8c3f1fe1": {
+    "Q1": "What color are most British phone boxes?",
+    "Q2": "What is a common cultural icon in Britain?",
+    "Q3": "What is the purpose of a phone booth?",
+    "Q4": "Why is the telephone booth in the caption yellow instead of red?",
+    "Q5": "Why are phone booths usually red in Britain?"
+  },
+  "46202ebdb0c1bc22207712c98c080ba46507e9925320684888a8c03a313ad3c7": {
+    "Q1": "Why are the colors of the keys on the piano reversed?",
+    "Q2": "What is the usual color of the large keys on a piano?",
+    "Q3": "What is the usual color of the small keys on a piano?",
+    "Q4": "Why are the large keys on a piano usually white?",
+    "Q5": "Why are the small keys on a piano usually black?"
+  },
+  "88dc19623568d780d6662fa5dcf441caa2bd5c0f2f2b822f0afdafacb4c32bbc": {
+    "Q1": "What color are minions typically known for?",
+    "Q2": "What is the unusual color of the minions in the given scenario?",
+    "Q3": "Are red minions a common occurrence in the animated series?",
+    "Q4": "What is the usual color of the heads of minions?",
+    "Q5": "What is the significance of the color red for the minions in this scenario?"
+  },
+  "e46cabf83d42af554fd0ad6aeee4ae19a8a6f62c98b5a2eb40499307660c6466": {
+    "Q1": "What color are the petals of sunflowers typically?",
+    "Q2": "Are pink sunflowers common?",
+    "Q3": "Why is it unlikely to see a pink sunflower?",
+    "Q4": "What is the usual color of sunflower petals?",
+    "Q5": "Are there any natural pink sunflowers?"
+  },
+  "2da75a8e0f00567130ab4ceceaee44de0162a13651435835c7da97cbe5a021d8": {
+    "Q1": "Why are the boots considered mismatched?",
+    "Q2": "What is the usual expectation for pairs of boots?",
+    "Q3": "What makes the mismatched boots unusual?",
+    "Q4": "How are boots typically sold?",
+    "Q5": "Why would wearing mismatched boots be seen as unusual?"
+  },
+  "e5d26516f0ed8357439e911a7056b0f506e23c871363441422f38790d59b1d30": {
+    "Q1": "What is the color of a standard stop sign?",
+    "Q2": "What does the color green typically mean in traffic signals?",
+    "Q3": "Why is the green stop sign contradictory?",
+    "Q4": "What is the meaning of a green stop sign?",
+    "Q5": "What is the meaning of a red stop sign?"
+  },
+  "c2d1231e0773659a67673c40e44f80880540526e1acca351f635fd28b1700435": {
+    "Q1": "What color is human blood normally?",
+    "Q2": "Why is human blood red?",
+    "Q3": "Can human blood be purple?",
+    "Q4": "What is the protein responsible for the red color of human blood?",
+    "Q5": "What happens when hemoglobin binds with oxygen in human blood?"
+  },
+  "37b004290f868ccd8989699c2aa7553a038d720e0ccee018c19e868d3f78f169": {
+    "Q1": "Why is a pink pistol not a popular choice for a weapon?",
+    "Q2": "What is the perception of pink as a color for a weapon?",
+    "Q3": "Why is pink considered cute and not intimidating?",
+    "Q4": "What colors are commonly associated with weapons?",
+    "Q5": "What factors influence the popularity of colors for weapons?"
+  },
+  "9a7c1eb6b403d1225776a5f16d5188bb074fdb042cd3afd7a98ca330756b00cf": {
+    "Q1": "What animal is typically associated with pirates?",
+    "Q2": "Why is a falcon on the pirate's shoulder instead of a parrot?",
+    "Q3": "What purpose did parrots serve for pirates?",
+    "Q4": "What other animals are commonly associated with pirates?",
+    "Q5": "What other animals are associated with pirates?"
+  },
+  "8453fac3f839befa4f8432be876fe1f89a4cccb5db1b5f334b04dbfa808bfe48": {
+    "Q1": "Can Superman hold Mjolnir?",
+    "Q2": "Why can't Superman hold Mjolnir?",
+    "Q3": "Who is Mjolnir associated with?",
+    "Q4": "What is the main property of Mjolnir?",
+    "Q5": "What happens if someone unworthy tries to lift Mjolnir?"
+  },
+  "fa529d75e226e93fae6c463e7914c5de73408e9a8f02d39eca9b5dd28248300d": {
+    "Q1": "Is the logo on the MacBook a banana or an apple?",
+    "Q2": "Why is there a banana logo on the MacBook?",
+    "Q3": "What is the usual logo on Apple products?",
+    "Q4": "Why is the logo on the MacBook different from other Apple products?",
+    "Q5": "Is the banana logo a new design for Apple products?"
+  },
+  "c4226fdf609603eb6017e20df652f4e808fdd5315e28b62a2368864527833d68": {
+    "Q1": "Why is it ironic to see Greta Thunberg holding a disposable plastic cup?",
+    "Q2": "What is Greta Thunberg known for?",
+    "Q3": "What is the significance of Greta Thunberg holding a disposable plastic cup?",
+    "Q4": "What is the environmental impact of disposable plastic cups?",
+    "Q5": "How does Greta Thunberg's action contradict her beliefs as an environmental activist?"
+  },
+  "f2553295db094057291255764d018b9383730893bb18eb9670e629efc2cc4e07": {
+    "Q1": "Is Queen Elizabeth on an American dollar bill?",
+    "Q2": "Why is Queen Elizabeth unlikely to be on a dollar bill?",
+    "Q3": "Is Queen Elizabeth related to the United States in any way?",
+    "Q4": "What is the nationality of Queen Elizabeth?",
+    "Q5": "What is the purpose of decorating money bills with people?"
+  },
+  "937d9f37a91d1cce4c184e41ba43df8cdb3f3039b5c098805a51cf06aaa889c2": {
+    "Q1": "Has Cristiano Ronaldo ever won the FIFA World Cup trophy?",
+    "Q2": "What is Cristiano Ronaldo holding in the photo?",
+    "Q3": "Is Cristiano Ronaldo known for winning the FIFA World Cup?",
+    "Q4": "Why is it unlikely to see Cristiano Ronaldo holding the FIFA World Cup trophy?",
+    "Q5": "What is the significance of the FIFA World Cup trophy in soccer?"
+  },
+  "8fce7ed929988c605b5938177946d7787c285ffac7656e230fce9102cbf7ea3b": {
+    "Q1": "Why is an orange carved as a Jack O'Lantern unusual?",
+    "Q2": "What is the purpose of carving a Jack-O-Lantern face in pumpkins?",
+    "Q3": "Why is it unlikely to see a Jack-O-Lantern orange?",
+    "Q4": "What are the characteristics of an orange that make it unsuitable for carving as a Jack O'Lantern?",
+    "Q5": "Why is an orange traditionally not used for carving as a Jack O'Lantern?"
+  },
+  "87940653a82a4c6f42ef4763fed1dba275d67d63e2a0a0fb2116f97b774382a5": {
+    "Q1": "What is the logo typically found on a MacBook?",
+    "Q2": "Why is there a pear logo on the MacBook?",
+    "Q3": "Is the pear logo a common design for Apple laptops?",
+    "Q4": "What is the significance of the apple logo on Apple laptops?",
+    "Q5": "How did the MacBook end up with a pear logo instead of an apple logo?"
+  },
+  "26b08efc44c60e2380c06b0cd4643087e65825997a2577d315fe9211431c282e": {
+    "Q1": "Why do villains usually stroke a cat instead of a dog?",
+    "Q2": "What is the typical animal that villains are associated with?",
+    "Q3": "What does it mean when a villain strokes a dog instead of a cat?",
+    "Q4": "What is the significance of Dr. Evil stroking a dog instead of a cat?",
+    "Q5": "Why is it peculiar to see Dr. Evil with a dog on his lap instead of a cat?"
+  },
+  "fc59e71b8f34bafcae0fc084aba44eccc2b494963ccb7512df91af2b659ddbb1": {
+    "Q1": "Why is Superman sitting down on a bus?",
+    "Q2": "Does Superman normally use public transportation?",
+    "Q3": "What abilities does Superman have?",
+    "Q4": "How does Superman usually travel from one place to another?",
+    "Q5": "Why would Superman choose to ride a bus instead of flying?"
+  },
+  "a6768ca96f4c9a37e926a6a051437130b542a2d1506209da54f970a8f318ce5f": {
+    "Q1": "Does Goldilocks actually sleep with the bears in the fairytale?",
+    "Q2": "What happens when the bears catch Goldilocks in their home?",
+    "Q3": "Is Goldilocks sleeping with real bears or stuffed teddy bears?",
+    "Q4": "Why does Goldilocks flee after the bears catch her?",
+    "Q5": "What is the fairytale of Goldilocks about?"
+  },
+  "f39f8a83f788f04876d874c3f17ee09b25c472d0cf5e98be102f52e15471b9e2": {
+    "Q1": "Is Belle from Beauty and the Beast known for her relationship with the Beast?",
+    "Q2": "Is Tiana the princess from Beauty and the Beast?",
+    "Q3": "Can Belle kiss a frog?",
+    "Q4": "What is the story of Beauty and the Beast?",
+    "Q5": "Why can't Belle kiss a frog?"
+  },
+  "c41f07125752437fd7fc148ae97dbca3951da393808080e8de0edc17fec22601": {
+    "Q1": "Is it common for Santa Claus to ride with horses?",
+    "Q2": "What kind of animals usually pull Santa's carriage?",
+    "Q3": "Why is Santa Claus riding with horses instead of reindeer?",
+    "Q4": "What is the usual mode of transportation for Santa Claus?",
+    "Q5": "Why is seeing Santa Claus ride with horses not typical?"
+  },
+  "c635886a9dbaacc6ad26f5175e770879bcb2247e984b964ffc8b76645142c5ea": {
+    "Q1": "Who does Little Red Riding Hood usually encounter in the folklore?",
+    "Q2": "What animal is Little Red Riding Hood staring at in the image?",
+    "Q3": "Is the presence of a fox in the image consistent with the original folklore?",
+    "Q4": "What is the typical animal that Little Red Riding Hood meets in the folklore?",
+    "Q5": "What is the significance of Little Red Riding Hood meeting a fox instead of a wolf in the image?"
+  },
+  "6a2a841a238f35d83347e53b7acf0010e7734a27cbb4a3f19119e889a2c64afb": {
+    "Q1": "What are some characteristics of dragons?",
+    "Q2": "What is the usual behavior of dragons?",
+    "Q3": "Why is it strange to see a dragon blowing water?",
+    "Q4": "What is the purpose of a dragon breathing fire?",
+    "Q5": "How does a dragon usually intimidate others?"
+  },
+  "eb8a111842a4bcd07808dfe3fe78c566c5cf3116e55be0bd0da56a2e77bfd9b9": {
+    "Q1": "What is the Sphinx doing near a Mayan temple?",
+    "Q2": "Where is the Sphinx normally found?",
+    "Q3": "What is the significance of the Sphinx being near a Mayan temple?",
+    "Q4": "How did the Sphinx end up near a Mayan temple?",
+    "Q5": "Is it common to find the Sphinx near Mayan temples?"
+  },
+  "5b0cca62c8c2407d644f702e6350030e529408b603aa8cdb6334f641cc85a66a": {
+    "Q1": "Is the Statue of Liberty located in Paris, France?",
+    "Q2": "Can the Statue of Liberty and the Eiffel Tower be seen together in real life?",
+    "Q3": "Where is the Statue of Liberty located?",
+    "Q4": "What is the significance of the Statue of Liberty?",
+    "Q5": "Why is it impossible to see the Statue of Liberty and the Eiffel Tower together in an image?"
+  },
+  "87917b89ca2f091d82a220e9ec773e70532293cc79483517fd8a42f29fc97dd0": {
+    "Q1": "Is the Sphinx a native species in the rainforest?",
+    "Q2": "What is the natural habitat of the Sphinx?",
+    "Q3": "Why is the Sphinx in the rainforest?",
+    "Q4": "How did the Sphinx end up in the rainforest?",
+    "Q5": "Is the Sphinx commonly found in rainforests?"
+  },
+  "c5156951e9a85dc907406913036d102015f343b1dbed57939ee1a1daee17d64c": {
+    "Q1": "Where is the Statue of Liberty located?",
+    "Q2": "Where is the Big Ben located?",
+    "Q3": "Is the Statue of Liberty in front of the Big Ben Clock?",
+    "Q4": "Can the Statue of Liberty be found in London?",
+    "Q5": "Can the Big Ben be found in New York City?"
+  },
+  "9c0290315942b963678e6be6e958a719aefde867fa8372fe0a5a808d8ee2cc34": {
+    "Q1": "What is the Sphinx decorated like?",
+    "Q2": "Where is the Sphinx located?",
+    "Q3": "What is typically found in Egyptian mummies and tombs?",
+    "Q4": "Where are Mayan temples located?",
+    "Q5": "Why is the Sphinx decorated like a sarcophagus?"
+  },
+  "884fe67cd79baee8627287c0b5844ff0bc8dd3257189e64ffd84614358a3071f": {
+    "Q1": "Is the Statue of Liberty located in Sydney, Australia?",
+    "Q2": "Where is the Sydney Opera House located?",
+    "Q3": "Can the Statue of Liberty and the Sydney Opera House be found beside each other?",
+    "Q4": "What is the significance of the Statue of Liberty?",
+    "Q5": "Why is it impossible for the Statue of Liberty and the Sydney Opera House to be beside each other?"
+  },
+  "6e3d98b94e33acb2a1981898c26e713b2c9848cf213187b82ab3be25cf24d482": {
+    "Q1": "Do Native Americans visit the pyramids in Egypt?",
+    "Q2": "Where are the Giza Pyramids located?",
+    "Q3": "Are Native Americans limited to North America?",
+    "Q4": "Why couldn't there be Native Americans near the Egyptian Pyramids?",
+    "Q5": "What continent are the Native Americans from?"
+  },
+  "897aa6953470d71f4930840a61cba3b5d7de2fe6af09527b361b59ce26d33b81": {
+    "Q1": "Where is the Statue of Liberty located?",
+    "Q2": "Where is the Sydney Opera House located?",
+    "Q3": "What is the significance of the Statue of Liberty?",
+    "Q4": "What is the significance of the Sydney Opera House?",
+    "Q5": "Is it possible for the Statue of Liberty and the Sydney Opera House to be beside each other?"
+  },
+  "7aeaf81c2151ae67f5b52e61179a6e244c573d83a6eacbc3c3c32cf881b55f30": {
+    "Q1": "What is the significance of a double-decker bus driving in front of the Eiffel Tower?",
+    "Q2": "Where are double-decker buses commonly found?",
+    "Q3": "Why are double-decker buses not commonly seen in Paris?",
+    "Q4": "What problem were double-decker buses invented to address?",
+    "Q5": "Are double-decker buses a common sight in Paris?"
+  },
+  "a44e48b526d196a5368435f20d274090b5065d6fd04ca68480b3951ece3bac05": {
+    "Q1": "What is a pagoda?",
+    "Q2": "Where are pagodas typically found?",
+    "Q3": "What is the Eiffel Tower?",
+    "Q4": "Where is the Eiffel Tower located?",
+    "Q5": "Is it possible for a pagoda to be seen in front of the Eiffel Tower?"
+  },
+  "bb335561eb5bc5477b0cd9efe87ecc3525c7bcda07d2919c2822a10bb4c96839": {
+    "Q1": "Is it common for a housekeeper to wash dishes in the bathroom sink?",
+    "Q2": "Why is the housekeeper washing dishes in the bathroom sink?",
+    "Q3": "Is it hygienic to wash dishes in a bathroom sink?",
+    "Q4": "What is the usual place for washing dishes?",
+    "Q5": "Why is the bathroom sink not suitable for washing dishes?"
+  },
+  "281dfde4773c70a8e23fc32810929c4e164108e625f89ddaabc99618c01e441a": {
+    "Q1": "Is it safe for a pregnant woman to smoke cigarettes?",
+    "Q2": "What are the risks of smoking during pregnancy?",
+    "Q3": "Why is it unlikely to see a pregnant woman smoking?",
+    "Q4": "What are the guidelines for pregnant women regarding smoking?",
+    "Q5": "How does smoking affect the health of the fetus during pregnancy?"
+  },
+  "bb09d789a4d23416f0cc650e466ddfa49cd3c12abec7e65591f28543af95eb50": {
+    "Q1": "Is it safe for a pregnant woman to drink red wine?",
+    "Q2": "What are the risks of a pregnant woman consuming alcohol?",
+    "Q3": "Why is it unlikely to see a pregnant woman consuming alcohol?",
+    "Q4": "What can happen to the unborn child if a pregnant woman drinks alcohol?",
+    "Q5": "What precautions should a pregnant woman take regarding alcohol consumption?"
+  },
+  "ac927d4c9d89768b049d4d0032ebcdc3dceb8574c7b8cdc0207f1bb1672fce30": {
+    "Q1": "Is it safe for pregnant women to eat raw fish?",
+    "Q2": "What are the risks of pregnant women eating raw fish?",
+    "Q3": "What are some common dietary restrictions for pregnant women?",
+    "Q4": "What are some alternatives for pregnant women who want to eat sushi?",
+    "Q5": "What are the benefits of pregnant women avoiding raw fish?"
+  },
+  "e88369edf03d4f06331ae6434259bdb47ec4c4250049cf6d5a848f49b8619a16": {
+    "Q1": "Is it safe to use a rusty knife to cut meat?",
+    "Q2": "What are the potential risks of using a rusty knife to cut meat?",
+    "Q3": "Why would using a rusty knife be less effective in cutting meat?",
+    "Q4": "What are the consequences of using a rusty knife in food preparation?",
+    "Q5": "Why is using a rusty knife for cutting meat not recommended?"
+  },
+  "36668daa68bb52f4f0993248e93f892ecaf12965194b2accd749334231f3f2cf": {
+    "Q1": "Why are there dirty dishes in a bathroom sink?",
+    "Q2": "Where are dirty crockery usually washed?",
+    "Q3": "Why is the kitchen sink considered more sanitary than the bathroom sink for washing dishes?",
+    "Q4": "What is the typical use of a bathroom sink?",
+    "Q5": "What is the holding capacity of a bathroom sink?"
+  },
+  "fc87d9b896b65c78ee482263eb53f750005ac9a555dac9af9ce054c7a816dc1d": {
+    "Q1": "Is it safe to use a plastic straw in a boiling cup of tea?",
+    "Q2": "What could happen if a plastic straw is placed in a boiling cup of tea?",
+    "Q3": "Why would using a plastic straw in a boiling cup of tea be potentially harmful?",
+    "Q4": "What materials are safe to use with hot beverages like tea?",
+    "Q5": "What are the risks of consuming chemicals from a melted plastic straw?"
+  },
+  "b997f574bedc8cbb5e655105d47e657fe27df6adf0ea16df2581dbfe8875d275": {
+    "Q1": "Can ostriches fly?",
+    "Q2": "What is the usual habitat of an ostrich?",
+    "Q3": "How do ostriches move around if they can't fly?",
+    "Q4": "Why is there an ostrich on a wire?",
+    "Q5": "Is it common to see ostriches on utility cables?"
+  },
+  "0b75797b5ccc7f2f34932b5e045aee1282e0d8246f2e295d5c2c2dd2531aba51": {
+    "Q1": "Why is the woman hanging her wet laundry outside while it's snowing?",
+    "Q2": "What happens to wet laundry when it's hung outside in freezing temperatures?",
+    "Q3": "Is it common to hang wet laundry outside in freezing temperatures?",
+    "Q4": "What is the purpose of hanging wet laundry outside?",
+    "Q5": "What would happen if the woman hung her wet laundry outside in freezing temperatures?"
+  },
+  "f857e66966d6af4e41d68ad6aae6719b617ad3c1f0fd918eda634bce69ca3c0c": {
+    "Q1": "How does a person in a wheelchair ascend steps?",
+    "Q2": "What is the usual method for a person in a wheelchair to navigate steps?",
+    "Q3": "Why is it not possible to find a person in a wheelchair unattended in the middle of a long stairway?",
+    "Q4": "What kind of assistance do wheelchairs require for ascending steps?",
+    "Q5": "What are the challenges faced by a person in a wheelchair when encountering steps?"
+  },
+  "b131e0e42c82da580a2b80d3bf46f220e8a74f196e28ccf72cb0efbc2a8ac152": {
+    "Q1": "Why is the man talking on the phone while submerged in water?",
+    "Q2": "Is it possible for a cell phone to work underwater?",
+    "Q3": "What could be the reason for the man taking a phone in the ocean?",
+    "Q4": "What are the potential consequences of using a cell phone in water?",
+    "Q5": "How does water damage cell phones and technology?"
+  },
+  "6a28dbd375c0967003887395f8a85ba1879b7835346f20c2d63c8f4e2a075a1d": {
+    "Q1": "Can a steam train ride on a roller coaster track?",
+    "Q2": "Why can't a freight train ride on a roller coaster track?",
+    "Q3": "What is the weight of a freight train?",
+    "Q4": "How does a steam train stay on the tracks?",
+    "Q5": "What is centripetal force and how does it relate to roller coasters?"
+  },
+  "107a26017e6a61eed9dfe6e7951b6cbdf4537b67786a9a97ad35ccebd23b30d1": {
+    "Q1": "Can a candle be lit underwater?",
+    "Q2": "Why can't a flame be ignited underwater?",
+    "Q3": "What happens to a flame when it is submerged in water?",
+    "Q4": "What is the effect of cold water on a flame?",
+    "Q5": "Is it possible for a candle to burn underwater?"
+  },
+  "958de8cb409de640220d0a0b67985e9a5c40bfa5a4a5354c8d66dbec14851ac2": {
+    "Q1": "Is it common for pigeons to carry packages on their backs?",
+    "Q2": "What are carrier pigeons known for?",
+    "Q3": "Why don't carrier pigeons carry parcels on their backs?",
+    "Q4": "How do carrier pigeons deliver messages?",
+    "Q5": "What would happen if a pigeon had packages tied to its back?"
+  },
+  "3eaaad072e8eb6f62e2f8e17e15f3ed41353957199eea37efd7c7cbc1318e3b4": {
+    "Q1": "Why is there a wind turbine in a forest?",
+    "Q2": "Do wind turbines work effectively in forests?",
+    "Q3": "What is the ideal location for a wind turbine?",
+    "Q4": "How does the presence of trees affect the efficiency of wind turbines?",
+    "Q5": "Why are wind turbines usually placed in open spaces?"
+  },
+  "199070302b9956dd0868d88a03c6c76a1c7ee949c9280977973be91428fdab15": {
+    "Q1": "Can a man wearing boxing gloves play the piano effectively?",
+    "Q2": "Why is it difficult for a man wearing boxing gloves to play the piano?",
+    "Q3": "What are the requirements for playing the piano?",
+    "Q4": "What is the purpose of wearing boxing gloves?",
+    "Q5": "Is it possible for a professional boxer to play the piano while wearing boxing gloves?"
+  },
+  "5547ec61d60753f6be155d738ffe7522859b6e568cccff9d778e521222fdbd5f": {
+    "Q1": "Is it safe to use a laptop in the bath?",
+    "Q2": "What are the risks of using electronic devices in water?",
+    "Q3": "Why is it dangerous to use a laptop in the bath?",
+    "Q4": "What could happen if a laptop is submerged in water?",
+    "Q5": "What precautions should be taken when using electronic devices near water?"
+  },
+  "ab66ba96ba1edae4728d365912231f360e903a73d0b1031350f4ceac86c6dce5": {
+    "Q1": "Why is the man wearing a fur coat in a sauna?",
+    "Q2": "What is the purpose of wearing minimal clothing in a sauna?",
+    "Q3": "How does wearing a fur coat affect the sauna experience?",
+    "Q4": "What is the recommended attire for using a sauna?",
+    "Q5": "Why would someone wear heavy clothing in a sauna?"
+  },
+  "77855d61cd3a2a5f5946142128d9774bae3ec02ce55cf34d8e47225c98223cb1": {
+    "Q1": "Why is the man wearing a dog recovery cone collar?",
+    "Q2": "What is the purpose of an Elizabethan collar for dogs?",
+    "Q3": "Can humans wear Elizabethan collars for the same purpose as dogs?",
+    "Q4": "What is the function of a dog recovery cone collar?",
+    "Q5": "Why would a human wearing an Elizabethan collar be ineffective for wound healing?"
+  },
+  "42b85d70e840c34d44aee9cc55e216a8f147728e1fee181e6b4f76147ee93c67": {
+    "Q1": "Why does a place setting have two knives?",
+    "Q2": "What is the purpose of a knife in a place setting?",
+    "Q3": "What other utensil is required for eating with a knife?",
+    "Q4": "How does a knife help with eating?",
+    "Q5": "What is the standard arrangement of utensils in a place setting?"
+  },
+  "ae2475ba54cc233a137937e87a0c8fb52ef51c6f12cf5f0371cc51475597639c": {
+    "Q1": "Why is the woman running in high heels on a treadmill?",
+    "Q2": "Are high heels suitable for exercising?",
+    "Q3": "What type of shoes are recommended for running on a treadmill?",
+    "Q4": "Why are high heels prohibited in gyms?",
+    "Q5": "What are the disadvantages of running in high heels on a treadmill?"
+  },
+  "69bfc492c4213e24aaca66bc2b553867353db1c2044d5ac3c3be0147f0033a3f": {
+    "Q1": "Why is milk being served in a wine glass?",
+    "Q2": "What is the purpose of a wine glass?",
+    "Q3": "What is the difference between serving milk in a wine glass and a regular cup?",
+    "Q4": "Does serving milk in a wine glass affect the taste or temperature of the milk?",
+    "Q5": "Is it common to serve beverages other than wine in a wine glass?"
+  },
+  "bef11cb8bab957436b4740bc349ea847ce801526068420bdb89085002cd116f1": {
+    "Q1": "Why do you need to remove the shells of walnuts before processing them in a food processor?",
+    "Q2": "What happens if you try to process walnuts with the shells still on in a food processor?",
+    "Q3": "Can you eat the shells of walnuts?",
+    "Q4": "What is the purpose of using a food processor to process walnuts?",
+    "Q5": "How do you remove the shells from walnuts before processing them in a food processor?"
+  },
+  "b53d684d7aaa31823345d7d3383ea1608010da3f837896846ff209f6e0b0ac50": {
+    "Q1": "Why is the man wearing a suit while hiking up a mountain?",
+    "Q2": "What is the usual outfit for hiking up a mountain?",
+    "Q3": "What is the purpose of wearing a tailored suit?",
+    "Q4": "Is it common to see people wearing suits while hiking up mountains?",
+    "Q5": "Why are tailored suits known to be uncomfortable?"
+  },
+  "30538922af3d541ba056b7763d6e274d7f0c952b3cc47d0a96807b52349afc8a": {
+    "Q1": "Can a tennis racket be used to hit a billiard ball?",
+    "Q2": "What type of ball is used in tennis?",
+    "Q3": "Why is it not possible to play tennis with a billiard ball?",
+    "Q4": "What would happen if a tennis racket was used to hit a billiard ball?",
+    "Q5": "What are the characteristics of a tennis ball that make it suitable for the game?"
+  },
+  "ed36d8749b186918b84be70cb83acce8ee09a4fa3099db2e4d99bebe7b925746": {
+    "Q1": "Is using a magnifying glass effective for zooming in on an image on a smartphone?",
+    "Q2": "What is the purpose of using a magnifying glass on a smartphone?",
+    "Q3": "Why is using a magnifying glass ineffective for zooming in on a smartphone?",
+    "Q4": "What feature do smartphones have for zooming in on images?",
+    "Q5": "What is the alternative to using a magnifying glass for zooming in on a smartphone?"
+  },
+  "3e6925c16600e18bff6342df1a1bf39e11c6bd1b85cbf187e5087f99bd534995": {
+    "Q1": "Why is the bouquet of flowers upside down in the vase?",
+    "Q2": "What is the purpose of placing flowers in a vase?",
+    "Q3": "What happens when flowers are placed upside down in a vase?",
+    "Q4": "Why is it pointless to place flowers upside down in a vase?",
+    "Q5": "What is the usual way to arrange flowers in a vase?"
+  },
+  "cefa4f7015a4fad20a1bf1bf77cda07a85d3e9d130326b91295a34d985e0027d": {
+    "Q1": "Is it common for the Great Sphinx of Giza to be covered in snow?",
+    "Q2": "What is the usual climate in the area where the Great Sphinx of Giza is located?",
+    "Q3": "How does the Great Sphinx of Giza look when it is covered in snow?",
+    "Q4": "What is the significance of the Great Sphinx of Giza being covered in snow?",
+    "Q5": "Why is it unlikely to see the Great Sphinx of Giza covered in snow?"
+  },
+  "0165e9be8bd8dce5ca046484a5f6340cf767f18ae4e5a80a1e5139fc65172bff": {
+    "Q1": "Do panda bears live in areas where the Northern Lights occur?",
+    "Q2": "What is the latitude range where the Northern Lights occur?",
+    "Q3": "Where are panda bears typically found?",
+    "Q4": "Can panda bears see the Northern Lights from their habitat?",
+    "Q5": "Why is there a panda bear in an area with the Northern Lights?"
+  },
+  "11200045f1006fb8555509e0d8efb41a947ec767066c2a4c5783c35c7003d710": {
+    "Q1": "What is the usual weather in tropical beaches with palm trees?",
+    "Q2": "Why is there snow on a tropical beach with palm trees?",
+    "Q3": "Is it common for tropical beaches with palm trees to have snow?",
+    "Q4": "What are the conditions required for snow to form on a beach?",
+    "Q5": "How did the snow end up on a tropical beach with palm trees?"
+  },
+  "1a5c6713ad438615371ac2ea2194c5138febd7a9edbb9da67f2e4d8f60444225": {
+    "Q1": "What are the northern lights?",
+    "Q2": "Where can the northern lights be seen?",
+    "Q3": "Why can't the northern lights be seen in the desert?",
+    "Q4": "What is a natural phenomenon that occurs in the arctic and antarctic regions?",
+    "Q5": "What is the relationship between the northern lights and deserts?"
+  },
+  "05554fe5df28c034fea62484b03bcafc691ca0f0b8a26818fba2d0b344d52e0d": {
+    "Q1": "Is it common to see the Aurora Borealis in Paris?",
+    "Q2": "What causes the Aurora Borealis to occur?",
+    "Q3": "Where is the Aurora Borealis typically seen?",
+    "Q4": "Why is it unlikely to see the Aurora Borealis in Paris?",
+    "Q5": "What is the significance of the Aurora Borealis phenomenon?"
+  },
+  "39ded17ac041aeff6656456a672160a8bd887c0a55ae0e87ee2162f35fb3017e": {
+    "Q1": "What is the climate like in Africa?",
+    "Q2": "Do children in Africa often see snow?",
+    "Q3": "How do the locals in Africa deal with snow?",
+    "Q4": "Why are children in Africa building a snowman?",
+    "Q5": "Is it common for children in Africa to build snowmen?"
+  },
+  "9c8838d168c6c674aaa2cf12f687764cbeac831c09c94c12275f3d0ee9733a68": {
+    "Q1": "Why is lightning striking a dilapidated shack on a clear sunny day?",
+    "Q2": "What is the usual weather condition for lightning to occur?",
+    "Q3": "What causes lightning to be created?",
+    "Q4": "Why is lightning usually associated with thunderstorms?",
+    "Q5": "Why is it unlikely to see lightning on a clear, sunny day?"
+  },
+  "a269adfdc337d61d7226dc5266d225af936e8eb30120bd4ad6522cfaa62d2d46": {
+    "Q1": "Is it normal for a cow to eat meat?",
+    "Q2": "What type of animal is a cow?",
+    "Q3": "What is the usual diet of a cow?",
+    "Q4": "Why is it unusual to see a cow eating meat?",
+    "Q5": "What would be the impact on a cow if it ate meat?"
+  },
+  "a3ae1f4c52ca782bcef462f8bc9fd70a3c61d86ff512b14dab0717a863ab6a90": {
+    "Q1": "Is it common for lions to eat carrots?",
+    "Q2": "What is the typical diet of a lion?",
+    "Q3": "Why would a lion be eating carrots?",
+    "Q4": "Do lions normally eat vegetables?",
+    "Q5": "What would be a more likely food for a lion to eat?"
+  },
+  "f9bebbf43a23d7cf12e14639e2f31bb21a76cc9450d7e9793670c312a193f121": {
+    "Q1": "Why is it strange to see a gorilla eating honey combs?",
+    "Q2": "What is the typical diet of a gorilla?",
+    "Q3": "What animals are known for eating honey?",
+    "Q4": "Do gorillas normally eat honey?",
+    "Q5": "How did the gorilla end up eating honey combs?"
+  },
+  "51fa709a1ccff02ddf71e177ba65060b02a0763cf1c0668f6c130cfcb1078376": {
+    "Q1": "What is the usual diet of an owl?",
+    "Q2": "Why is it unusual to see an owl carrying a piece of corn on the cob?",
+    "Q3": "What is the purpose of an owl carrying a piece of corn on the cob?",
+    "Q4": "What kind of prey do owls typically hunt?",
+    "Q5": "How did the owl end up with a piece of corn on the cob?"
+  },
+  "f80bd8b2cee0cb0163ecf0f8b832d559e9f667c2d9317d905d8615f9d0a57823": {
+    "Q1": "Is it normal for a giraffe to eat raw meat?",
+    "Q2": "What is the typical diet of a giraffe?",
+    "Q3": "Why is it unusual to see a giraffe eating meat?",
+    "Q4": "What type of animal is a giraffe in terms of diet?",
+    "Q5": "What would happen if a giraffe ate raw meat?"
+  },
+  "d31ea4b1d0e4a0b8a7987d550af252aff983a414db9ad0b7d6a6f6eb81183a2e": {
+    "Q1": "Is it common for lions to eat watermelons?",
+    "Q2": "What is the typical diet of a lion?",
+    "Q3": "Why is it unlikely to see a lion eating a watermelon?",
+    "Q4": "Do lions usually consume fruits?",
+    "Q5": "What is the behavior of lions when it comes to food?"
+  },
+  "f18abbd1a33cd06c419cb232eb294e0148d69067caf3e2705a95e6372d126e08": {
+    "Q1": "Is it common for grizzly bears to eat bamboo?",
+    "Q2": "What is the typical diet of a grizzly bear?",
+    "Q3": "Why is the grizzly bear eating bamboo?",
+    "Q4": "What type of animal usually consumes bamboo?",
+    "Q5": "How does the diet of a grizzly bear differ from that of a panda?"
+  },
+  "a4faf2bb2a1d741c0566b855544c17d5a997748254211947efc6c7649b97a96c": {
+    "Q1": "What is the diet of a great white shark?",
+    "Q2": "Can sharks eat seaweed?",
+    "Q3": "Why is a great white shark eating seaweed?",
+    "Q4": "What are the characteristics of sharks in the clade Selachimorpha?",
+    "Q5": "Do sharks have the necessary digestive enzymes to break down plant matter?"
+  },
+  "e8bcda923da9ad375d2456eba15ab5cf21ade419b521f6a1f8a4e159254c0847": {
+    "Q1": "Why is the man eating pizza at the gym?",
+    "Q2": "What kind of food is the man eating at the gym?",
+    "Q3": "Is it common to eat pizza at the gym?",
+    "Q4": "What is the purpose of going to the gym?",
+    "Q5": "What kind of people go to the gym?"
+  },
+  "ca89bcc4fdabaedd1a87aa240aa196491c001672398c6e38d3419be6c726f203": {
+    "Q1": "What is the natural habitat of pandas?",
+    "Q2": "What is the main diet of pandas?",
+    "Q3": "Do pandas typically catch trout in streams?",
+    "Q4": "How do pandas differ from grizzly bears in terms of diet and behavior?",
+    "Q5": "Why is the panda catching trout in a stream?"
+  },
+  "62b50b2e649d8572caae81389e9f93aed3af01bb17869772ce99c76adb4dadfd": {
+    "Q1": "Is it possible to have a Rubik's Cube with ten squares of the same color?",
+    "Q2": "How many squares are there on a Rubik's Cube?",
+    "Q3": "What is the maximum number of same-color squares that can be on a Rubik's Cube?",
+    "Q4": "Can a Rubik's Cube with ten purple squares be solved?",
+    "Q5": "Why is a Rubik's Cube with ten same-color squares impossible to solve?"
+  },
+  "f8ee524ffcabdb241babc042489e913d4791f9a4b69b85d40cc69b08086f58ae": {
+    "Q1": "What are the possible hours in an analog clock?",
+    "Q2": "Can a clock have repeating numbers on the dial?",
+    "Q3": "Why can't a clock have double numbers on the dial?",
+    "Q4": "What is the significance of the ordering of numbers on a clock dial?",
+    "Q5": "What is the purpose of a clock?"
+  },
+  "9c43f902ac2be33fe4b40a4e116ac4d5ae72f6015c09ad8e0918614cde62a108": {
+    "Q1": "What is the standard number of faces on a die?",
+    "Q2": "How many different numbers are typically found on a die?",
+    "Q3": "Can a standard die have two faces with the same number?",
+    "Q4": "What number is typically found on one face of a die?",
+    "Q5": "How many sides does a standard die have?"
+  },
+  "1c29f91bf9043835a0f8b83786d5bdafa779bfb4bab5d9fa8d03959684e803c0": {
+    "Q1": "Why are the arrow keys on a foreign language keyboard pointed inwards?",
+    "Q2": "What is the purpose of having arrow keys on a keyboard?",
+    "Q3": "How do humans typically expect arrow keys to be oriented on a keyboard?",
+    "Q4": "Why is it important for arrow keys to be intuitive for humans?",
+    "Q5": "What is the standard arrangement of arrow keys on a keyboard?"
+  },
+  "667e4803861959f8d70ee7dd86a8103716d3fa1cc4852ece20c19d66113aba8c": {
+    "Q1": "Why would someone decorate a pillow with metal spikes?",
+    "Q2": "What is the purpose of a pillow?",
+    "Q3": "How would metal spikes affect the comfort of a pillow?",
+    "Q4": "Are pillows typically soft and comfortable?",
+    "Q5": "What is the usual material used to make pillows?"
+  },
+  "73f0539bd8fba46b86f3d6a9788681a5d1e03a9cf730f63dee57c573c7c95c10": {
+    "Q1": "What is the purpose of a compass?",
+    "Q2": "How do people use a compass to navigate?",
+    "Q3": "What are the four main directions on a compass?",
+    "Q4": "Why is a compass with an extra south point useless?",
+    "Q5": "What direction is missing on a compass with North South South West points?"
+  },
+  "b06bef5a72e3149ecdeece8dd18c41cdb27c21c5e748180e5155e773654c369a": {
+    "Q1": "What is a knight in chess?",
+    "Q2": "What is the shape of the knight chess piece?",
+    "Q3": "Can a knight capture its own pieces in chess?",
+    "Q4": "How many knights does each player start with in chess?",
+    "Q5": "Are there any chess pieces in the shape of a unicorn?"
+  },
+  "499d26e829c6a94a8a3cbb22976581a99d46bc39e9b74b314ebdba08e4842fe4": {
+    "Q1": "Why is the steering wheel of a car usually placed in front of the driver's seat?",
+    "Q2": "What is the purpose of placing the steering wheel in front of the driver's seat?",
+    "Q3": "Why would placing the steering wheel in the middle of the dashboard be pointless?",
+    "Q4": "What is the standard position for the steering wheel in a car?",
+    "Q5": "How does the placement of the steering wheel affect the driver's control of the car?"
+  },
+  "8bd07cd8c3a3ae07dd18aafa56319384ba949cc6663f9d266e0098ccd6b57323": {
+    "Q1": "Is it possible for a standard die to have the number seven on one of its faces?",
+    "Q2": "How many faces does a standard die have?",
+    "Q3": "What are the numbers typically found on a standard die?",
+    "Q4": "Why is it unlikely for a die to have the number seven on one of its faces?",
+    "Q5": "What is the maximum number that can be found on a standard die?"
+  },
+  "ae7f9cffe6c43a8e883b2b41551472c63070efbdf96370fdd4682988fdcc32df": {
+    "Q1": "Is a pencil made from a tree branch with leaves a common type of pencil?",
+    "Q2": "What material is typically used to make pencils?",
+    "Q3": "Do pencils grow out of the bottom of trees?",
+    "Q4": "How are pencils manufactured?",
+    "Q5": "What is the misconception about pencils and trees?"
+  },
+  "a57f31986d2e590cc1ca3524f92126b030496f97933787e15e9c7cc57aa2ee7b": {
+    "Q1": "What is the typical appearance of a coal mine worker's nails?",
+    "Q2": "Why is it not practical for a coal mine worker to have long nails?",
+    "Q3": "What are the challenges faced by a coal mine worker with long acrylic manicured nails?",
+    "Q4": "How does the length of nails affect a coal mine worker's job?",
+    "Q5": "What are the safety concerns for a coal mine worker with long nails?"
+  },
+  "aee0158312364ea8910350967e4e228ba7d5d7a05ce3fb67da4c9ab0e1ee5272": {
+    "Q1": "Why are the glass cups in the boat cabin undisturbed during stormy seas?",
+    "Q2": "How does the table setting in the boat cabin remain tidy during rough seas?",
+    "Q3": "What is the usual outcome of a table set with dinnerware in rough seas?",
+    "Q4": "What causes instability in rough seas that can lead to things flying off the deck?",
+    "Q5": "Why is it surprising that the meal setting in the boat cabin remains undisturbed during stormy seas?"
+  },
+  "e957ccc767c171fcc37c0f21d484409ed501f254a17b24327d25e87ae953f04a": {
+    "Q1": "Can rainbows be seen at night?",
+    "Q2": "What causes the formation of rainbows?",
+    "Q3": "Why are rainbows not seen at night?",
+    "Q4": "What is the role of sunlight in the creation of rainbows?",
+    "Q5": "How does the refraction of light create a rainbow in the sky?"
+  },
+  "483452e205f21fd1830c4b8c8e90978c36928a5a02f5a90f9dbd75f5a9712b0e": {
+    "Q1": "Why is a life saving buoy resting at the bottom of the ocean floor?",
+    "Q2": "What is the purpose of a life saving buoy?",
+    "Q3": "How does a life saving buoy work?",
+    "Q4": "Can a life saving buoy sink to the bottom of the ocean floor?",
+    "Q5": "What happens when a life saving buoy is thrown into water?"
+  },
+  "e2803b8dbf3f520e8828bdd418a0fabf6838b01458b8b16e84b25ad770739969": {
+    "Q1": "Why are stars not visible during the day?",
+    "Q2": "What makes stars difficult to see during the day?",
+    "Q3": "When are stars typically visible in the sky?",
+    "Q4": "What causes the dim light of a distant star to be nearly invisible during the day?",
+    "Q5": "Why are stars visible in the sky with a bright afternoon sun?"
+  },
+  "83d28479a2a3158336fab8f1972ff1f09dbab2a31059cdb2cbc28c7500487737": {
+    "Q1": "What type of fabric is typically used for sailboat sails?",
+    "Q2": "Why would a sail made of knitted fabric be ineffective in catching the wind?",
+    "Q3": "What is the purpose of a sail on a sailboat?",
+    "Q4": "How does a sailboat accelerate?",
+    "Q5": "What are the challenges of sailing in rough waters with knitted sails?"
+  },
+  "c1ce801de289b0a39f8cdc2ed55b5becf01cdacf65e33ebfbcd10aa51a4e06c8": {
+    "Q1": "Why is the liquid not pouring out of the glass carafe?",
+    "Q2": "What happens when you tilt a carafe filled with wine upside down?",
+    "Q3": "Is it possible for the contents of a carafe to remain inside when it is tipped upside down?",
+    "Q4": "What force prevents the liquid from flowing out of the carafe when it is upside down?",
+    "Q5": "Why is it unlikely for the contents of a carafe to remain inside when it is tipped upside down?"
+  },
+  "76c1cdfecc4ce335a56c9f0bc346ca10944e171ff57b8acde43f786406663054": {
+    "Q1": "What is the function of electricity in operating a light bulb?",
+    "Q2": "How does a light bulb normally receive power?",
+    "Q3": "What is the source of power for a light bulb?",
+    "Q4": "Why is a man holding a light bulb in his hand?",
+    "Q5": "Is it possible to generate electricity by holding a light bulb in your hand?"
+  },
+  "8f2fc9a6837b739624670c9708288f71afda316cf0a4830a097116c6e66fbb6f": {
+    "Q1": "How did the pomegranate end up inside the bottle?",
+    "Q2": "Why is there a pomegranate inside the bottle?",
+    "Q3": "Is it possible for a whole pomegranate to fit through the opening of a bottle?",
+    "Q4": "What is the purpose of putting a pomegranate inside a bottle?",
+    "Q5": "How was the pomegranate placed inside the bottle without breaking it?"
+  },
+  "eb4d0c1cc13abd335bb54699a0fea070084f21644b8210da25c614e1f9c6231d": {
+    "Q1": "Why is the old man blowing bubbles while smoking a pipe?",
+    "Q2": "Is it common for people to blow bubbles while smoking a pipe?",
+    "Q3": "What is the purpose of the bubbles being blown by the old man with a pipe?",
+    "Q4": "What is the usual emission when someone smokes a pipe?",
+    "Q5": "Why is it unlikely to see someone blowing bubbles while smoking a pipe?"
+  },
+  "16cd9f4c4ea0b66e1ca027c36e0c3e284fc468186d9b6850ba4f84629f0e42e4": {
+    "Q1": "Is Steve Jobs known for his association with Apple?",
+    "Q2": "What is Steve Jobs demonstrating in the picture?",
+    "Q3": "Why is it unlikely for Steve Jobs to present a Microsoft tablet?",
+    "Q4": "Is it common for Steve Jobs to promote Microsoft products?",
+    "Q5": "Who is the co-founder and CEO of Apple?"
+  },
+  "0e266e5e89bfac783598e8404a42642e6d4d5fd888e7ed9a08158cf1dab28a9f": {
+    "Q1": "Is Mark Zuckerberg the founder of Meta?",
+    "Q2": "What is Mark Zuckerberg's role in Meta?",
+    "Q3": "Why is it unlikely to see Mark Zuckerberg wearing a shirt with an Amazon logo?",
+    "Q4": "What is the relationship between Mark Zuckerberg and Amazon?",
+    "Q5": "What kind of clothing does Mark Zuckerberg usually wear?"
+  },
+  "d2f4380333eeb95c375b515710eb16818dc7e2743b43dfe1a3101f78c8517973": {
+    "Q1": "Why is it unlikely to see Jeff Bezos wearing a Tesla shirt?",
+    "Q2": "What company does Jeff Bezos work for?",
+    "Q3": "What is the relationship between Amazon and Tesla?",
+    "Q4": "What is the connection between Jeff Bezos and self-driving vehicle technologies?",
+    "Q5": "What kind of shirt does Jeff Bezos usually wear?"
+  },
+  "0b96fcd434e780c849618db83459625a57ba307b75525edef9f03eee524c2845": {
+    "Q1": "Why is Sundar Pichai wearing a shirt with an OpenAI logo?",
+    "Q2": "What is the relationship between Google and OpenAI?",
+    "Q3": "Is Sundar Pichai a supporter of OpenAI?",
+    "Q4": "What message might Sundar Pichai be trying to convey by wearing a shirt with the OpenAI logo?",
+    "Q5": "Why is it unlikely to see Sundar Pichai wearing a shirt with the logo of a competitor?"
+  },
+  "b6e309c8fe6b174548191a4f1b4b064f9158ed419b8ac6404d4aeebb1f89e8d1": {
+    "Q1": "Why would Bill Gates wear a hat with Google's logo?",
+    "Q2": "What is the relationship between Bill Gates and Google?",
+    "Q3": "Is Bill Gates a fan of Google?",
+    "Q4": "What is the significance of Bill Gates wearing a hat with Google's logo?",
+    "Q5": "Is it common for competitors to wear each other's logos?"
+  },
+  "4d313109c8f514ff8cd9a15bf0dc9033443d1ecb41eb3264deca028920b47758": {
+    "Q1": "Does Bill Gates use a PC or a Mac?",
+    "Q2": "What is the relationship between Bill Gates and Microsoft?",
+    "Q3": "Why is it unlikely for Bill Gates to use an Apple MacBook?",
+    "Q4": "Is it common for tech industry leaders to use products from competitive companies like Apple?",
+    "Q5": "Is Apple a competitor of Microsoft?"
+  },
+  "c25571af142fee95185cd8fe8a3e6f7175a38338eb6d26b5d1369dca7e2f0484": {
+    "Q1": "What is the woman doing in front of the mirror?",
+    "Q2": "Why is the reflection in the mirror reversed?",
+    "Q3": "How does a mirror reflect its surroundings?",
+    "Q4": "Can a mirror reflect the opposite direction of a person?",
+    "Q5": "What is the purpose of a mirror?"
+  },
+  "d541ed51863933e631f60fdadd6cd1eb563c19f823ae8cf83ea8714d4dd70c21": {
+    "Q1": "Why is the shadow of the cat facing the opposite direction?",
+    "Q2": "What is the known property of shadows?",
+    "Q3": "Can a cat cast a shadow that looks the other way?",
+    "Q4": "What determines the direction of a shadow?",
+    "Q5": "Is it possible for a shadow to have a different shape than the object that creates it?"
+  },
+  "52c26363ef8234d72c6b8450f32cddb53a4023e6a206e17a0fbaa7d1758f8660": {
+    "Q1": "Why is the woman's mirror reflection wearing different clothes?",
+    "Q2": "How is it possible for a mirror reflection to wear different clothes?",
+    "Q3": "Is the mirror reflection showing a different person?",
+    "Q4": "What does a mirror usually reflect?",
+    "Q5": "How does a mirror reflection work?"
+  },
+  "6883646c27c233a185118fc28f0af913e0541d184c0e8c558dfb9b34f4ef34fb": {
+    "Q1": "Can a woman cast a man's shadow?",
+    "Q2": "How is a shadow formed?",
+    "Q3": "What determines the shape of a shadow?",
+    "Q4": "What is the relationship between an object and its shadow?",
+    "Q5": "Why does a woman cast a man's shadow?"
+  },
+  "ce58edfa9010b2c6a3499af8297c3300451fcab3b582a2d5c56cac850666f0d9": {
+    "Q1": "Why is it dangerous to have a lit candle positioned directly under a curtain?",
+    "Q2": "What can happen if a lit candle is too close to a curtain?",
+    "Q3": "What precautions should be taken when using candles near curtains?",
+    "Q4": "Why should a lit candle not be placed under a curtain?",
+    "Q5": "What is the potential consequence of having a lit candle near a curtain?"
+  },
+  "3bdff8d18802822295c44ec4b054efd2c7b161b11f7cfc666948c0fd153c5aae": {
+    "Q1": "Why is it not recommended to drink hot water directly from a tea kettle spout?",
+    "Q2": "What is the proper way to consume hot water from a tea kettle?",
+    "Q3": "What is the purpose of pouring boiling water into a cup with tea before drinking?",
+    "Q4": "What could happen if someone drinks hot water directly from a tea kettle spout?",
+    "Q5": "Is it safe to drink directly from a tea kettle spout?"
+  },
+  "827903909da98db80a388efb31ba166e486fade33a13ca423c2312706e6425ea": {
+    "Q1": "Why is it dangerous to put a fork in an electrical socket?",
+    "Q2": "What material is a fork made of?",
+    "Q3": "What happens if someone touches a fork in an electrical socket?",
+    "Q4": "Why is it important to avoid putting metal objects in electrical outlets?",
+    "Q5": "What is the potential consequence of putting a fork in an electrical socket?"
+  },
+  "a04b3cf364f408e9a0b6be9a0c2edf4c49cf63bc9590f1fa8654483b88539367": {
+    "Q1": "Why is it dangerous for a man to sit on a power line?",
+    "Q2": "What could happen if someone touches a power line without protective gear?",
+    "Q3": "What is the proper protective gear for handling power lines?",
+    "Q4": "Is it safe for people to sit on power lines?",
+    "Q5": "What are the potential consequences of sitting on a power line without protective gear?"
+  },
+  "bdbad25812601e5082e0e5d25eabd976d12c6e9a8773b81bc3b807fc57cdd61c": {
+    "Q1": "What is the potential danger of placing a lit candle under a curtain?",
+    "Q2": "Why should a lit candle not be placed near window curtains?",
+    "Q3": "What can happen if a lit candle is placed too close to a curtain?",
+    "Q4": "What is the risk of having a lit candle near combustible materials like curtains?",
+    "Q5": "What precautions should be taken when using a lit candle near curtains?"
+  },
+  "b5f34e38ceb1cd0699358105b7aa4dc8ea71dcf026b969e0d52c0b8bae2bfe7f": {
+    "Q1": "Is it safe for a man to walk a tiger in a crowded urban street?",
+    "Q2": "Why is the man walking a tiger in a crowded urban street?",
+    "Q3": "What kind of animal is a tiger?",
+    "Q4": "Can tigers be domesticated like dogs?",
+    "Q5": "What precautions should be taken when handling a tiger?"
+  },
+  "27b65d48f35f968b956d7bc20d0567039506af19c57dc3aa4f9c8a96f3a45539": {
+    "Q1": "Is it safe to kiss a hedgehog?",
+    "Q2": "Why is the boy kissing a hedgehog?",
+    "Q3": "What are the risks of keeping a hedgehog as a pet?",
+    "Q4": "What are the dangers of touching a hedgehog's quills?",
+    "Q5": "Why are hedgehogs not commonly kept as pets?"
+  },
+  "89fe39b5bbe019449118e847306a0241501cf6dc9ca6af79591406c48a56f158": {
+    "Q1": "Why is the man not wearing any protection near the swarm of bees?",
+    "Q2": "What kind of clothing do beekeepers wear to protect themselves from bee stings?",
+    "Q3": "What is the purpose of wearing a face mask with mesh for beekeepers?",
+    "Q4": "Why is a simple polo shirt not enough protection against bee stings?",
+    "Q5": "How can the man avoid getting stung by the bees without any protective clothing?"
+  },
+  "2234d7c0fb4123c6839e59703d94a9d6b4538b11e3500e1067537d43f78d4ac0": {
+    "Q1": "Why is it unsafe to sleep while holding a hot cup of tea?",
+    "Q2": "What are the potential risks of sleeping while holding a hot cup of tea?",
+    "Q3": "What precautions should be taken when drinking hot beverages?",
+    "Q4": "Why is the man holding a hot cup of tea while sleeping?",
+    "Q5": "Why is it important to be cautious when handling hot liquids?"
+  },
+  "a3ea42bb542e4e0dd6bfb76b6f79d2274091925428505b13cfa3dc7e86f7e9f1": {
+    "Q1": "Why is the child standing on a high ledge?",
+    "Q2": "What is the potential danger of standing on a high ledge?",
+    "Q3": "What should children do instead of standing on high ledges?",
+    "Q4": "What is the purpose of a safety barrier on high ledges?",
+    "Q5": "Where would a child typically be when looking out a window?"
+  },
+  "e89d4c6e2759f6b33f9f0d4068e1a42a111e0d385ed6bf6df6624ee893bdf6fd": {
+    "Q1": "Is smoking allowed in the area where the man is standing?",
+    "Q2": "What does a no-smoking sign indicate?",
+    "Q3": "What are the usual penalties for smoking in areas with no-smoking signs?",
+    "Q4": "Why is the man smoking next to a no-smoking sign?",
+    "Q5": "What is the purpose of a no-smoking sign?"
+  },
+  "cf242a5077a0f4e7f80a20b8e9ecdcb00cb21cc46ebc505cd22e62bda23b6ecd": {
+    "Q1": "Why are people dressed in all white at a funeral?",
+    "Q2": "What is the traditional color for mourning at a funeral?",
+    "Q3": "What does the color white symbolize at a funeral?",
+    "Q4": "Why would participants and a casket not be white at a funeral?",
+    "Q5": "What is the significance of the color black at a funeral?"
+  },
+  "24282dd177e85e774afd47d781775e8a49b678357c55f4d6743e97c8e48cf0c8": {
+    "Q1": "Why is it considered inappropriate to wear white at a funeral?",
+    "Q2": "What is the traditional color to wear at a funeral?",
+    "Q3": "When did black become popular as funeral fashion?",
+    "Q4": "Why is black associated with death and loss?",
+    "Q5": "What is the significance of wearing white at a funeral?"
+  },
+  "2728be1f7740f3b9696dcfea1ed7d0e7388cf57eaeea037ed638000025790fdf": {
+    "Q1": "Why is the bride wearing a black wedding dress?",
+    "Q2": "What is the traditional color for wedding dresses in the Western world?",
+    "Q3": "What does a black dress typically symbolize?",
+    "Q4": "What does a white wedding dress traditionally signify?",
+    "Q5": "Why is black clothing usually worn at funerals?"
+  },
+  "78ff4bee03c4820f2dbbbf99709c3228cbaa15cc7c01e78701828258c943db11": {
+    "Q1": "Why are the guests laughing at the funeral?",
+    "Q2": "What is the usual atmosphere at a funeral?",
+    "Q3": "Is it common for people to laugh at a funeral?",
+    "Q4": "What emotions are typically associated with a funeral?",
+    "Q5": "How do people usually behave at a funeral?"
+  },
+  "8f4303a3baeef1946b73bf9e7863405bfe732bf11d780ba4716a46684c8aef4f": {
+    "Q1": "Why is a drummer playing in the library?",
+    "Q2": "What is the purpose of libraries enforcing silence?",
+    "Q3": "What instruments are allowed to be played in libraries?",
+    "Q4": "What are the consequences of playing loud instruments in libraries?",
+    "Q5": "How does the drummer manage to play in the library without breaking the silence policy?"
+  },
+  "def0fe2c78e75a7affb21205f7ef74849e09d2dda1d1dcf1a52b7ee7381ce79d": {
+    "Q1": "What is the condition of the car that is being given as a gift?",
+    "Q2": "What type of objects are typically given as gifts?",
+    "Q3": "Why is it strange to see a junked car as a gift?",
+    "Q4": "What is the usual condition of objects given as gifts?",
+    "Q5": "What is the significance of giving a gift-wrapped junked car?"
+  },
+  "ff29222410246aa40b6c9a03358f8628b3e8b4cb8ccda038ba1299bcc7444ed4": {
+    "Q1": "Is smoking allowed on airplanes?",
+    "Q2": "What are the consequences of smoking on an airplane?",
+    "Q3": "Why is smoking banned on most domestic flights?",
+    "Q4": "What is the current policy on smoking in airplanes?",
+    "Q5": "What are the risks of smoking in an enclosed space like an airplane?"
+  },
+  "065a45abb0e05241aadf7bfd96ddf2820bb6f2e3b56f4c2eb5657b9ccc46b6be": {
+    "Q1": "Why is the bride holding a bouquet of thorns?",
+    "Q2": "What is the traditional content of a wedding bouquet?",
+    "Q3": "What are the dangers of holding a bouquet of thorns?",
+    "Q4": "Why would a bride toss a bouquet of thorns?",
+    "Q5": "What is the significance of a wedding bouquet?"
+  },
+  "20676c5cb79143abca8a2aa7b00ca2e7c3bf791054b48eda3739341c6f7ac005": {
+    "Q1": "Why is a British guard wearing a Viking helmet?",
+    "Q2": "What is the purpose of the bearskin hat worn by the Queen's Guard?",
+    "Q3": "Do Vikings wear horned helmets?",
+    "Q4": "What is the significance of the horned helmets used by Vikings?",
+    "Q5": "Why do the Queen's Guard wear bearskin hats instead of Viking helmets?"
+  },
+  "8916a6bb8b1b2c2c3a40c7fb3feba5b065e52357c36d1930125e1f29e073ab52": {
+    "Q1": "Why do movie goers prefer popcorn over vegetables as a snack?",
+    "Q2": "What kind of food is typically served at concession stands in movie theaters?",
+    "Q3": "Why are vegetables considered less enjoyable to snack on compared to popcorn?",
+    "Q4": "What are some common snacks that movie goers enjoy?",
+    "Q5": "Why don't concession stands in movie theaters serve vegetables as a snack?"
+  },
+  "0705323c64c02b106ff542977ccd3d2367c4e44cbc7cf4276e835628b2efaf68": {
+    "Q1": "Why is Michelangelo's David covered by a fig leaf?",
+    "Q2": "What is the symbolism behind covering David with a fig leaf?",
+    "Q3": "Is it common for sculptures to be covered with fig leaves?",
+    "Q4": "What is the original state of Michelangelo's David sculpture?",
+    "Q5": "What does the fig leaf represent in art?"
+  },
+  "a255fe6ceb040a6eb61bbf3e6d69204216f6b4acabeca27fd41f7737b4e16616": {
+    "Q1": "Why is the Mercedes-Benz logo upside down on the car?",
+    "Q2": "What does the Mercedes logo represent?",
+    "Q3": "Is it common to see a car with an upside down Mercedes-Benz logo?",
+    "Q4": "What are the points on the Mercedes logo supposed to represent?",
+    "Q5": "Why is the orientation of the Mercedes-Benz logo important?"
+  },
+  "0523238ad853df24e690fc2299d75dfec199797050371874820d7db9f4bcf6d4": {
+    "Q1": "Why is a children's playground set usually painted with bright colors?",
+    "Q2": "What is the purpose of painting playground equipment with bright colors?",
+    "Q3": "Why would monochromatic black be avoided for a children's playground set?",
+    "Q4": "What effect does the color black have on kids?",
+    "Q5": "How does the color of playground equipment affect children's emotions?"
+  },
+  "a1bead54bdb2c1a683855047a637622284a708720c6d285791e9f7e79650a8fc": {
+    "Q1": "What is the purpose of the white eight-ball in pool?",
+    "Q2": "Is there a white eight-ball in pool?",
+    "Q3": "What color is the cue ball in pool?",
+    "Q4": "What color is the eight ball in pool?",
+    "Q5": "Why is the eight ball black in pool?"
+  },
+  "2853f46ab62155891a817b34d81bbfd979f8072b268f094e1cec8c14b4caf014": {
+    "Q1": "Is the Statue of Liberty made of gold?",
+    "Q2": "What is the material used to construct the Statue of Liberty?",
+    "Q3": "Why does the Statue of Liberty have a blue-green color?",
+    "Q4": "What is the chemical process that gives the Statue of Liberty its color?",
+    "Q5": "Why is it not possible for the Statue of Liberty to be golden?"
+  },
+  "8ab1c30861760dae124c4adbded673e4a26909ee5b63ffb5e72542db2309271b": {
+    "Q1": "Why is the person wearing a beekeeper's outfit while fencing?",
+    "Q2": "Is it common for fencers to wear beekeeper's outfits?",
+    "Q3": "How does the beekeeper's outfit affect the fencer's performance?",
+    "Q4": "What is the purpose of a beekeeper's outfit?",
+    "Q5": "What are the challenges of fencing in a beekeeper's outfit?"
+  },
+  "b103f54e7159764c2523d42f109b756b510b194976dc833922d51f466f736a71": {
+    "Q1": "What is typically found in a bird's nest?",
+    "Q2": "Where would candy eggs be found?",
+    "Q3": "What is the purpose of decorating Easter eggs?",
+    "Q4": "Why are there decorated Easter eggs in a nest?",
+    "Q5": "What is the difference between candy eggs and bird eggs?"
+  },
+  "33a1f16901bb458fc351ab34e6c8fa3ebbd53fd290fa6f99f5933fa95778a596": {
+    "Q1": "What color is the flower that the child drew?",
+    "Q2": "What color is the pencil that the child used?",
+    "Q3": "Can a child with a red crayon draw a blue flower?",
+    "Q4": "What is the significance of the child using a red pencil to draw a blue flower?",
+    "Q5": "Why did the child choose to draw a blue flower with a red pencil?"
+  },
+  "71ece5f63643d10d57da478998f78e4746da5dcf8ab0d264b6b6fb0ac9903667": {
+    "Q1": "What is the time period when woolly mammoths went extinct?",
+    "Q2": "Why is it impossible for modern humans to interact with a woolly mammoth?",
+    "Q3": "What is the habitat of a woolly mammoth?",
+    "Q4": "What is the significance of woolly mammoths in human history?",
+    "Q5": "How did modern humans end up interacting with a woolly mammoth?"
+  },
+  "db2df60ab50b4fed7db588b5e1d1ea9717b5ef05d1b8cbd2e632d50c9f029a48": {
+    "Q1": "Is the ancient Indian sculpture depicting a computer console and monitors?",
+    "Q2": "What is the significance of the computer console and monitors in the ancient Indian sculpture?",
+    "Q3": "How can an ancient Indian sculpture feature a modern invention like a computer console and monitors?",
+    "Q4": "What is the purpose of the computer console and monitors in the ancient Indian sculpture?",
+    "Q5": "Is it possible for an ancient Indian sculpture to accurately depict a modern invention like a computer console and monitors?"
+  },
+  "26ccfdcd59a27eafa3c8ade48d5dbdb2915caf147791b7e688985dadb8a54620": {
+    "Q1": "Are President Obama and President Lincoln shaking hands in real life?",
+    "Q2": "When did Barack Obama become the US president?",
+    "Q3": "When was Abraham Lincoln president of the US?",
+    "Q4": "Is it possible for President Obama and President Lincoln to meet?",
+    "Q5": "What is the birth year of Barack Obama?"
+  },
+  "609d583b3a65e96be874c5b23eddd90aebff3609410fac702729699a2db50f92": {
+    "Q1": "Is it possible for a caveman to watch TV?",
+    "Q2": "When did electricity become commercially available?",
+    "Q3": "When was the first commercially available television unveiled?",
+    "Q4": "What era did prehistoric troglodytes live in?",
+    "Q5": "Why is a caveman watching TV?"
+  },
+  "a3bf493d52adddca3a97cb1c512c48e6b58971b61dc8a291a8316a1ba484db78": {
+    "Q1": "What is depicted in the cave painting?",
+    "Q2": "What is the significance of people with guns in a cave painting?",
+    "Q3": "How do we know that prehistoric cave dwellers were unfamiliar with rifles?",
+    "Q4": "What other types of images would prehistoric cave dwellers typically paint?",
+    "Q5": "Why would prehistoric cave dwellers not be able to paint images of guns?"
+  },
+  "7425b79979448459a654c7695517aa9e2623235b37df437022fad2b4ab6e4aeb": {
+    "Q1": "Is Steve Jobs alive in 2015 when the Apple Watch was released?",
+    "Q2": "Did Steve Jobs wear an Apple Watch before he died?",
+    "Q3": "Is the photo of Steve Jobs wearing an Apple Watch authentic?",
+    "Q4": "Was Steve Jobs involved in the development of the Apple Watch?",
+    "Q5": "What is the significance of Steve Jobs wearing an Apple Watch?"
+  },
+  "bf954ca58c44a83f07f0daa33f3c2371f16b7ae191a2b18a1ce5f4df8136e6cb": {
+    "Q1": "What is depicted in the hieroglyph?",
+    "Q2": "What is the significance of the hieroglyph depicting an ancient Egyptian using a modern computer tablet?",
+    "Q3": "Can ancient Egyptian hieroglyphics include modern inventions?",
+    "Q4": "When were tablets invented?",
+    "Q5": "Why is it impossible for ancient Egyptian hieroglyphics to include a tablet held by some humans?"
+  },
+  "2d7c36f886db91118f07d88c98e9f318c3da82e488c54c47e6b8a64bfeea8796": {
+    "Q1": "Is the scene depicted in the caption possible in reality?",
+    "Q2": "When was the first passenger airplane invented?",
+    "Q3": "What is a tyrannosaurus rex?",
+    "Q4": "How long ago did the tyrannosaurus rex go extinct?",
+    "Q5": "Why is it impossible for a plane to fly over a tyrannosaurus rex?"
+  },
+  "a820d99e07d3a35fe8b858e23de460aa98dceffcdf64114e4feb4199ded0cdda": {
+    "Q1": "Was Princess Diana alive when the movie Frozen was released?",
+    "Q2": "What is Princess Diana doing in the picture?",
+    "Q3": "When did Princess Diana pass away?",
+    "Q4": "Is the picture of Frozen related to Princess Diana's life?",
+    "Q5": "What is the connection between Princess Diana and the movie Frozen?"
+  },
+  "48216871fae7dcc42dafc40b2ec5b6db47cb02cd8096bc8ce20d7a6890f0bd07": {
+    "Q1": "Is the picture of Donald Trump and JFK real?",
+    "Q2": "When was JFK assassinated?",
+    "Q3": "How old was Donald Trump when JFK was assassinated?",
+    "Q4": "Is it possible for a picture of grown-up Donald Trump to include JFK?",
+    "Q5": "Why is it impossible for a picture of grown-up Donald Trump to include JFK?"
+  },
+  "4b3a760e2aa7ca6f3f73cc06f19342af5fa139c72267a38b39188e354b10fd32": {
+    "Q1": "Can butterflies swim underwater?",
+    "Q2": "What do butterflies eat?",
+    "Q3": "Why is it unlikely to see butterflies in an aquatic habitat?",
+    "Q4": "What is the body structure of a butterfly?",
+    "Q5": "Where do butterflies usually live?"
+  },
+  "884e9b5fda044f6ad866f62e6a018267f1bdf278709da419a10675754ece5aa2": {
+    "Q1": "Is it common to see polar bears and penguins together in the same habitat?",
+    "Q2": "Where do polar bears typically live?",
+    "Q3": "Where do penguins typically live?",
+    "Q4": "What is the main difference between the habitats of polar bears and penguins?",
+    "Q5": "Why is it impossible to see polar bears and penguins together in the same habitat?"
+  },
+  "bee49ad33d984783f77d39b52edbee1a1a61f99bb8b79cf8ad4ae7c021d5163b": {
+    "Q1": "Can hummingbirds swim?",
+    "Q2": "What do hummingbirds collect from flowers?",
+    "Q3": "Where would you typically find a hummingbird?",
+    "Q4": "What is the main diet of a hummingbird?",
+    "Q5": "Why would you never see a hummingbird underwater?"
+  },
+  "c013d30700572cf16c6ea700a4ffd244dce97b92a0e82427bfaff894fb739898": {
+    "Q1": "Is it common to see polar bears in the desert?",
+    "Q2": "What is the natural habitat of a polar bear?",
+    "Q3": "How does a polar bear survive in the desert?",
+    "Q4": "Why is there a polar bear in the desert?",
+    "Q5": "What are the typical temperatures in the Arctic where polar bears live?"
+  },
+  "caf20c478401e1381ec787bbadbf0d0bc10532d038ca93e38eea59fa089e6db6": {
+    "Q1": "Is it common for cats to be in dog houses?",
+    "Q2": "Why would a cat be in a dog house?",
+    "Q3": "What is the purpose of a dog house?",
+    "Q4": "Do cats prefer to be indoors or outdoors?",
+    "Q5": "What kind of shelter do cats typically use?"
+  },
+  "79b98ad6e87c67050f0be3f0079f87dbd7aa7eada4fb7f0b2d0a1bb98270f935": {
+    "Q1": "Are huskies commonly used to pull sleds in the desert?",
+    "Q2": "What are Siberian huskies and Alaskan malamutes bred for?",
+    "Q3": "Why would huskies be unsuitable for pulling sleds in the desert?",
+    "Q4": "What are the winter adaptations of huskies?",
+    "Q5": "What would happen to huskies if they were used to pull sleds in the desert?"
+  },
+  "b931942a67269ef57dc27740fd0da057f28094a5bd5a40283674e7124f89e7c9": {
+    "Q1": "Is it common for crocodiles to live in frozen habitats?",
+    "Q2": "What type of habitat do crocodiles prefer?",
+    "Q3": "How did the crocodile end up on the frozen lake?",
+    "Q4": "What is the usual climate for crocodiles?",
+    "Q5": "Why is there a crocodile on the frozen lake?"
+  },
+  "4701a77dc5d9810a921a67335ec0b6037dc19fa0f48b7c054e3a0815bf1fb654": {
+    "Q1": "Is it common to find penguins in the desert?",
+    "Q2": "What is the natural habitat of penguins?",
+    "Q3": "How do penguins survive in icy waters?",
+    "Q4": "Why would it be unusual to see a penguin in the desert?",
+    "Q5": "What are the typical characteristics of a penguin's habitat?"
+  },
+  "2f0f17c9b36f75d6988f16bfbcb5e662137cddda3346195a9befb77bfe41c410": {
+    "Q1": "Is it common to find koala bears in Asia?",
+    "Q2": "What is the natural habitat of koala bears?",
+    "Q3": "What is a pagoda?",
+    "Q4": "Why would it be odd to see a koala bear by a pagoda?",
+    "Q5": "Where are koala bears typically found?"
+  },
+  "6296099ff15501722e810095451c1bc837348c36cb7e7fc004a9a01ad9100846": {
+    "Q1": "Why is there a butterfly in a bee's hive?",
+    "Q2": "What is a beehive used for?",
+    "Q3": "Do butterflies typically live in beehives?",
+    "Q4": "What is the purpose of a beehive?",
+    "Q5": "How did the butterfly end up in the bee's hive?"
+  },
+  "533501293641b7d89cad582cdb258c38ee429e556996641cef20da5f5adf78c8": {
+    "Q1": "Can car races be held in the Colosseum in Rome?",
+    "Q2": "What is the purpose of the Colosseum in Rome?",
+    "Q3": "What events were held in the Colosseum in the past?",
+    "Q4": "Why can't car races be held in the Colosseum?",
+    "Q5": "What is the historical significance of the Colosseum?"
+  },
+  "4459f9aa291383d260f3a305a5ef447fabf6aad608a05bf6d37dfec8c4e77290": {
+    "Q1": "Is it possible for an airplane to fit inside a small car garage?",
+    "Q2": "Why would an airplane be inside a small car garage?",
+    "Q3": "What type of building is typically used to house airplanes?",
+    "Q4": "What is the size limitation of a small car garage?",
+    "Q5": "How does the size of an airplane compare to that of a small car garage?"
+  },
+  "05ccbc59ba4c21632f6f74069717d8e68bbf683699156b330e25d991ed0ca64a": {
+    "Q1": "What is the man doing in the desert?",
+    "Q2": "What is the purpose of winter garb?",
+    "Q3": "Why is the man skiing down a sand dune?",
+    "Q4": "What is the typical environment for skiing?",
+    "Q5": "Why is it unusual to see a person skiing in the desert?"
+  },
+  "3e059b68fe4f2fd6f4ab4f067faf1be6778a4778262ae210476f6daf5ba0d84c": {
+    "Q1": "Why is a helicopter parked inside a home garage?",
+    "Q2": "Where is a helicopter usually seen?",
+    "Q3": "What are the characteristics of a helicopter?",
+    "Q4": "Why can't a helicopter cross small doors?",
+    "Q5": "What is the size of a typical helicopter?"
+  },
+  "b97825997df04bd823207fd145331ffc3c3b62ec4e3a3adaac83c93debe87bdf": {
+    "Q1": "Why is a snowman sitting in front of a fire?",
+    "Q2": "What happens to a snowman when it is exposed to above freezing temperatures?",
+    "Q3": "Why can't a snowman sit next to a campfire?",
+    "Q4": "What temperature does a campfire typically reach?",
+    "Q5": "Can a snowman survive sitting in front of a fire?"
+  },
+  "867168fe17adac85294b8cea9ed54b99870a6bc352574ef9901d77a8cb9e87b2": {
+    "Q1": "Why is a ship in the desert unable to move?",
+    "Q2": "What forces allow a ship to float in water?",
+    "Q3": "What are the two main forces acting on a sailing vessel in water?",
+    "Q4": "Why would a ship be stranded on sand dunes in the desert?",
+    "Q5": "How does gravity affect a ship in water?"
+  },
+  "ae6e1f3e4170c2de25794341fa58a388e026909cbd7f2b42e3a84c041206b654": {
+    "Q1": "What is happening at the Colosseum?",
+    "Q2": "Why can't car races be held in the Colosseum?",
+    "Q3": "What was the purpose of the Colosseum in the past?",
+    "Q4": "What kind of events were held in the Colosseum historically?",
+    "Q5": "Why is the Colosseum considered a historic preservation building?"
+  },
+  "8911420ba6a43af49044a6f657f4c1039b18b464c4b72406d89982dd6a957125": {
+    "Q1": "Why is the man at the movie theater with his dog?",
+    "Q2": "Are dogs allowed in movie theaters?",
+    "Q3": "What is the general policy regarding pets in movie theaters?",
+    "Q4": "What is the expectation regarding pets in movie theaters?",
+    "Q5": "How might a dog disrupt other movie goers at a theater?"
+  },
+  "1911a69f3bd376afded317d6d377458397b5e3fbc5500def98f5e4d61d722138": {
+    "Q1": "Why is a man playing an electric guitar in a library?",
+    "Q2": "What is the purpose of a library's silence policy?",
+    "Q3": "What kind of instrument is the man playing in the library?",
+    "Q4": "What activities are typically allowed in a library?",
+    "Q5": "Why would someone play a loud instrument in a library?"
+  },
+  "97dc6f02af31403f499c4d1403f5a0a941f292f1240889114451717a35caf69a": {
+    "Q1": "What type of vehicle is the man riding in the desert?",
+    "Q2": "Why is a snowmobile not suitable for riding in the desert?",
+    "Q3": "What would be the problem with wearing winter gear in a desert?",
+    "Q4": "How does the man propel himself on sand?",
+    "Q5": "What is the purpose of the man riding in the desert?"
+  },
+  "a6cdbc28dbf0f3a2b9aadd181d9b42a723e3bd8c52234e85c24ee636348d019b": {
+    "Q1": "Is it common for whale sharks to jump out of the water?",
+    "Q2": "Why is it unlikely to see a whale shark jumping out of the water?",
+    "Q3": "What is the typical behavior of a whale shark in the water?",
+    "Q4": "What is the size of a whale shark?",
+    "Q5": "How do whale sharks feed?"
+  },
+  "856badc432a90c2761a496df2fbb05af6d3cd2102a683994f909018a8237fd80": {
+    "Q1": "Why is it unlikely for a cat and a mouse to sit next to each other?",
+    "Q2": "What is the typical relationship between cats and mice?",
+    "Q3": "What is the behavior of cats towards mice?",
+    "Q4": "Why would a mouse be comfortable sitting next to a cat?",
+    "Q5": "What is the usual reaction of a mouse when it sees a cat?"
+  },
+  "40c00757e97d886d80ad11e6e6eb578829dbf65cbf96a9ae16cdaad245d9c922": {
+    "Q1": "Is it common for eagles to swim underwater?",
+    "Q2": "Why is it unlikely to see an eagle swim underwater?",
+    "Q3": "What type of bird is an eagle?",
+    "Q4": "What is the natural habitat of an eagle?",
+    "Q5": "Can eagles survive in marine environments?"
+  },
+  "d24e57954fd8f2987c7a615a050db2461f53a280892d11101c558b8650577429": {
+    "Q1": "Can turtles leap out of the water like a fish?",
+    "Q2": "What is the reason why turtles cannot launch themselves out of the water like a fish?",
+    "Q3": "How do turtles move in water?",
+    "Q4": "What is the difference between a turtle and a fish in terms of leaping out of the water?",
+    "Q5": "What characteristics of a turtle should be changed so that it can leap out of the water?"
+  },
+  "9bc84a0c552afe5c228917befde83e06184c08b9d1b69f6069dc503193dae02e": {
+    "Q1": "Is it safe for a boy to sleep with a polar bear?",
+    "Q2": "What kind of animal is a polar bear?",
+    "Q3": "Are polar bears carnivorous predators?",
+    "Q4": "Why would a polar bear attack a child?",
+    "Q5": "What is the natural habitat of a polar bear?"
+  },
+  "b81b0fa048e0b4b1cb1d7cd873fb400251e03dad5c9659560e57fbdfd0630c30": {
+    "Q1": "Do roosters create nests?",
+    "Q2": "Where do hens create nests?",
+    "Q3": "What is the purpose of a nest?",
+    "Q4": "What is the difference between a rooster and a hen?",
+    "Q5": "Why is there a roster in a nest?"
+  },
+  "a6f6a872e93f4a2a415d42dca72787f002267994169595967914eb395eefcc6c": {
+    "Q1": "Why is the cat chasing the dog?",
+    "Q2": "What is the usual behavior of cats towards dogs?",
+    "Q3": "What is the usual behavior of dogs towards cats?",
+    "Q4": "Is it common for cats to chase dogs?",
+    "Q5": "Why is it unusual for a cat to chase a dog down the street?"
+  },
+  "c66105596372fbca606367741cb84ffe4c741917ab9fed813b72bd727b857c12": {
+    "Q1": "Is it common for ostriches to swim underwater?",
+    "Q2": "What type of bird is an ostrich?",
+    "Q3": "Can emus swim underwater?",
+    "Q4": "What is the natural habitat of emus?",
+    "Q5": "Why is the ostrich swimming underwater?"
+  },
+  "70290c81d22a8d53062dd46588f51d5f1e013355f25a6a4160d8c8eec2404817": {
+    "Q1": "Why is the spiderweb usually created in a circular shape?",
+    "Q2": "What is the standard shape of a spider's web?",
+    "Q3": "Why is it unlikely for a spider to weave a web in a unique shape?",
+    "Q4": "How does the circular shape of the spiderweb help the spider catch prey?",
+    "Q5": "What are the advantages of a circular spiderweb compared to other shapes?"
+  },
+  "4c707baeaaa83c0324a877ca9e6114d8650b1f91bf056c931d063e8a5ab2b1c1": {
+    "Q1": "Why is it dangerous to watch a tornado instead of seeking shelter?",
+    "Q2": "What should a person do when they see a tornado approaching?",
+    "Q3": "Why is it important to seek shelter during a tornado?",
+    "Q4": "Why would someone choose to sit outside and watch a tornado instead of seeking shelter?",
+    "Q5": "What is the typical response to an approaching tornado?"
+  },
+  "fba53b7857ea9dba3a46009c7dd0e69e51dce24abe723b095c8d60ab6536b786": {
+    "Q1": "Is it common to have tomatoes as a topping for ice cream?",
+    "Q2": "What is the usual topping for ice cream?",
+    "Q3": "Why would adding tomatoes to ice cream ruin the flavor?",
+    "Q4": "What is the flavor of ice cream?",
+    "Q5": "What is the purpose of adding toppings to ice cream?"
+  },
+  "0572e350344bda27364c82c950cd17980a367dbdb14862bedc4ceafcabc3ed5e": {
+    "Q1": "Why is salt being sprinkled into a cup of coffee?",
+    "Q2": "What is the usual taste of coffee?",
+    "Q3": "Is it common to add salt to coffee?",
+    "Q4": "What are the common ways to sweeten coffee?",
+    "Q5": "Why is it not customary to have salty coffee?"
+  },
+  "882daab8b2cc96ebc916644d0bcea86d3ec2b477b4672a2e8bb6b7cc482b5b4f": {
+    "Q1": "What are some common toppings on pizza?",
+    "Q2": "What fruits are commonly used as toppings on pizza?",
+    "Q3": "Why are strawberries not used as a topping on pizza?",
+    "Q4": "What is the most unusual topping you have seen on a pizza?",
+    "Q5": "Why are fruits like pineapple used as pizza toppings but not strawberries?"
+  },
+  "360a6ea32503173fff31aa860acbc906810823cc383ef1ff4fa1d7324f5b734a": {
+    "Q1": "What is typically found in a pizza box?",
+    "Q2": "What are the components of a pizza?",
+    "Q3": "Why would someone deliver just pizza dough in a pizza box?",
+    "Q4": "What is the purpose of a pizza box?",
+    "Q5": "Is it common to receive a pizza delivery with only dough and no toppings?"
+  },
+  "8a4b73c73b2db8fdb36490e23e9ddb7de7b02e752c12310fa4ac0a8e7de81d18": {
+    "Q1": "Is it common to put grapes on a pizza?",
+    "Q2": "What are the typical toppings for a pizza?",
+    "Q3": "Why would putting grapes on a pizza taste odd?",
+    "Q4": "What kind of dish is a pizza?",
+    "Q5": "What flavors are commonly found on a pizza?"
+  },
+  "449b1ba60cecec318cd0df26ff91d80483bb412774f91dcd365ae6b50108ceec": {
+    "Q1": "Is it common to put ice cubes in hot coffee?",
+    "Q2": "What happens when you put ice cubes in hot coffee?",
+    "Q3": "Why would someone put ice cubes in hot coffee?",
+    "Q4": "Does putting ice cubes in hot coffee change the flavor?",
+    "Q5": "Why is hot coffee traditionally served without ice cubes?"
+  },
+  "5c7e222a2156654b4bb19f55e3438202983e9dc88a40377aa2d4c188b3245233": {
+    "Q1": "What is the flavor of the ice cream in the cone?",
+    "Q2": "What is the usual taste of ice cream?",
+    "Q3": "Is it common to find spicy flavors in ice cream?",
+    "Q4": "What is the texture of ice cream?",
+    "Q5": "What are some common flavors of ice cream?"
+  },
+  "5846cad5dad4a9591a42a0b005fdee3fdb1be2f4f1a250a40345de741c22210b": {
+    "Q1": "Is cherry a common topping for pizza?",
+    "Q2": "What are some common toppings for pizza?",
+    "Q3": "Why are berries not a possible topping for pizza?",
+    "Q4": "What types of fruits are commonly used as pizza toppings?",
+    "Q5": "What are some unusual toppings that can be found on pizza?"
+  },
+  "cba4acfa0a71ccdf62d01a819ac5e8a9d83c8b186dc7c68244a85604eff89a6a": {
+    "Q1": "Is it common to serve cherry tomatoes with chocolate cake?",
+    "Q2": "What are some common garnishes for chocolate cake?",
+    "Q3": "What types of foods pair well with lettuce and tomatoes?",
+    "Q4": "Why would someone serve cherry tomatoes with chocolate cake?",
+    "Q5": "What is the typical flavor profile of chocolate cake?"
+  },
+  "05fe6583351893a65ecfa449e66cf67c4d2dbc0c93ea29b989e9b532c8dbc447": {
+    "Q1": "Is a taco filled with strawberries a common dish in Mexican cuisine?",
+    "Q2": "What are the typical ingredients found in a traditional taco?",
+    "Q3": "Why is it unusual to see a taco filled with sweet ingredients like strawberries?",
+    "Q4": "What is the origin of tacos?",
+    "Q5": "What other fruits or sweet ingredients are commonly used in tacos?"
+  },
+  "f1ab0fe7d6a48fe63bf7ccaf849a9fdb186dc8c53b7a1e1dfbc1d3a9ba9d194a": {
+    "Q1": "What is the woman doing with the dart?",
+    "Q2": "Can darts be used for writing?",
+    "Q3": "What is the purpose of darts?",
+    "Q4": "Why is the woman using a dart to write?",
+    "Q5": "What are some common uses of darts?"
+  },
+  "51604964c52741316a0fa874e038b25c11d442269bb4d08153bbe09fa573692f": {
+    "Q1": "Do paratroopers typically deploy from hot air balloons?",
+    "Q2": "What is the usual method of deployment for paratroopers?",
+    "Q3": "Why don't paratroopers use hot air balloons for deployment?",
+    "Q4": "What are the limitations of using hot air balloons for military campaigns?",
+    "Q5": "What is the role of paratroopers in military campaigns?"
+  },
+  "af5da5aff1293c9679be2ecd4faac67fa639487b25353c9859465035c6b7164e": {
+    "Q1": "Why is there a pencil sticking up from the center of the cake?",
+    "Q2": "What is the purpose of putting a pencil on a cake?",
+    "Q3": "How do people typically celebrate birthdays with cakes?",
+    "Q4": "What is the significance of lighting candles on a cake during celebrations?",
+    "Q5": "Why is using a pencil on a cake pointless?"
+  },
+  "a70326dd06a3b1c338682bac6b6632109a4e57f66d4af314215871cdc3457d9c": {
+    "Q1": "What is Snow White holding in the fairy tale?",
+    "Q2": "What does the evil witch give Snow White in the fairy tale?",
+    "Q3": "Why is a tomato an unlikely substitute for the poisoned apple in the fairy tale?",
+    "Q4": "What is the significance of the poisoned apple in the story of Snow White?",
+    "Q5": "How did the poisoned apple become a symbol in the Snow White story?"
+  },
+  "ca5a30e1a475b15ff63284064f29eaaa37094c7100f0ce088124f1e226509980": {
+    "Q1": "Why is a roulette wheel being used as a dart board?",
+    "Q2": "What is the purpose of a roulette wheel?",
+    "Q3": "How is a roulette wheel typically used?",
+    "Q4": "What is the difference between using a roulette wheel and a dart board?",
+    "Q5": "Is it common to use a roulette wheel as a dart board?"
+  },
+  "c8369b64c67fb5e10743a41ec396d4784ac9695bdda2830ebe653de9b7bcd83d": {
+    "Q1": "Why is there an ice cube on top of a waffle ice cream cone?",
+    "Q2": "What is the purpose of using a waffle cone for ice cream?",
+    "Q3": "Is the ice cube on the waffle ice cream cone edible?",
+    "Q4": "What is the difference between an ice cube and ice cream?",
+    "Q5": "Why would someone put an ice cube on top of a waffle ice cream cone?"
+  },
+  "13e8408d2f7168a9537506f2729bc00c3df1ea2bface36550995745408a95ac4": {
+    "Q1": "Why is the beekeeper wearing a spacesuit?",
+    "Q2": "What is the purpose of a spacesuit?",
+    "Q3": "What do beekeepers typically wear?",
+    "Q4": "What is the purpose of a beekeeper's suit?",
+    "Q5": "Why would a spacesuit be inappropriate for a beekeeper?"
+  },
+  "f6db6afb07f57df7349632044805c65dbb8d2c4514054be45a1244ccc0fbc518": {
+    "Q1": "Is it common to see a snow plow in a desert?",
+    "Q2": "What is the purpose of a snow plow?",
+    "Q3": "Why is a snow plow plowing sand in a desert?",
+    "Q4": "What is the usual material that a snow plow removes?",
+    "Q5": "Why is it unlikely to see a snow plow dragging sand?"
+  },
+  "fd68fdde609305125006790294efa49eb8913deac80009e9dcc6422b7873ab6d": {
+    "Q1": "Why is a pen being sharpened in a pencil sharpener?",
+    "Q2": "What is the purpose of a pencil sharpener?",
+    "Q3": "Can pens be sharpened in a pencil sharpener?",
+    "Q4": "What is the difference between a pen and a pencil?",
+    "Q5": "Why would it be odd to see a pen in a pencil sharpener?"
+  },
+  "e671f6409ab6e09b54313957a8666a39f2e34c3c5c7e8a106a3035f1ee49c3da": {
+    "Q1": "What kind of weapons do soldiers typically use in combat?",
+    "Q2": "Why are soldiers holding water guns instead of real weapons?",
+    "Q3": "Are water guns effective in combat situations?",
+    "Q4": "What is the purpose of soldiers holding water guns?",
+    "Q5": "Do soldiers commonly use water guns in warfare?"
+  }
+}
